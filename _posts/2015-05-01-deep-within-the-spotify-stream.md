@@ -3,18 +3,7 @@ title: Deep Within the Spotify Stream
 author: Adam
 layout: post
 permalink: /2015/05/deep-within-the-spotify-stream/
-readability_ARI:
-  - 7
-readability_CLI:
-  - 7.3
-readability_LIX:
-  - 26.9
-word_stats_word_count:
-  - 1052
-word_stats_keywords:
-  - 's:301:"a:18:{s:4:"feel";i:3;s:4:"like";i:4;s:7:"spotify";i:6;s:5:"music";i:5;s:7:"college";i:4;s:4:"year";i:4;s:8:"actually";i:3;s:8:"recorded";i:4;s:7:"service";i:3;s:5:"album";i:4;s:5:"wrote";i:3;s:4:"time";i:4;s:5:"songs";i:3;s:4:"just";i:4;s:4:"work";i:3;s:5:"exist";i:3;s:4:"hear";i:3;s:6:"social";i:3;}";'
-word_stats_cached:
-  - 1
+image: /uploads/2015/05/2336488130_359a6603ae_o.jpg
 dsq_thread_id:
   - 3728779741
 categories:
@@ -64,10 +53,10 @@ Anil Dash has this fantastic lecture titled <a href="https://www.youtube.com/wat
 
 I had a version of this happen to me. In college I had a radio show, as stereotypical as that sounds, and I would invite local bands every so often. I would then post recordings of my shows to Podbean and then embed the podcast on Blogger. The problem was that Podbean at some point decided to delete some (though not all) of my old podcasts. This became a painful experience when a best friend of mine, who I had recorded an interview with, passed away. In fact, his family told me that they would occasionally listening to the interview just to hear his voice. And then one day it was gone. After trying every which way to retrieve it, I received this message from their support about a year and a half ago:
 
-[<img class=" size-full wp-image-563 aligncenter" src="http://adamcroom.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-1.48.49-PM.png" alt="Podbean Screenshot" width="629" height="411" />][1]
+[<img class=" size-full wp-image-563 aligncenter" src="/uploads/2015/05/Screen-Shot-2015-05-01-at-1.48.49-PM.png" alt="Podbean Screenshot" width="629" height="411" />][1]
 
 And that was it. Now I take a significant amount of responsibility in not keeping a physical copy of this podcast. Believe me, I kick myself every day. But &#8220;times were different then&#8221; as this was a massive uncompressed audio file, cloud storage wasn&#8217;t as attainable, and hard drives were a.) much smaller and b.) much more expensive&#8211;particularly to college me. Even still, to this day, whenever I find an old flash drive, I check it for this audio file in hopes that it&#8217;s just sitting around somewhere.
 
 So there are two very different sides here. There is something poignant about the ecology of the web, where artifacts sprout and vanish echoing our own cycle. But there is also beauty in the opportunity to see our work scale nearly infinitely and end up in spaces and on platforms that didn&#8217;t exist when the original work was created affording us the opportunity to reconnect with a version of ourself that we thought was all but lost. And maybe the most pure beauty is the ability for both of these exist simultaneously in a way that can&#8217;t be replicated in the analog world. While I continue to wrap my head around that, I&#8217;m just going to enjoy whatever the next thing I uncover!
 
- [1]: http://adamcroom.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-1.48.49-PM.png
+ [1]:/uploads/2015/05/Screen-Shot-2015-05-01-at-1.48.49-PM.png

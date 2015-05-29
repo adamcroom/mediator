@@ -3,13 +3,14 @@ title: Reflecting on ET4Online 2015
 author: Adam
 layout: post
 permalink: /2015/04/reflecting-on-et4online-2015/
-cover: '/uploads/2015/04/IMG_9441.jpg'
+image: /uploads/2015/04/IMG_9441.jpg
 dsq_thread_id:
   - 3725452016
 categories:
   - Conferences
-  
+
 tags:
+  featured
   - Alec Couros
   - Amy Collier
   - Audrey Watters
