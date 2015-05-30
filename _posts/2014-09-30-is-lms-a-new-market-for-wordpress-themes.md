@@ -3,20 +3,6 @@ title: Is LMS a new market for WordPress themes?
 author: Adam
 layout: post
 permalink: /2014/09/is-lms-a-new-market-for-wordpress-themes/
-readability_ARI:
-  - 10.8
-readability_CLI:
-  - 10.6
-readability_LIX:
-  - 33.3
-word_stats_word_count:
-  - 825
-word_stats_keywords:
-  - 's:570:"a:30:{s:11:"themeforest";i:5;s:9:"available";i:3;s:9:"education";i:3;s:6:"themes";i:10;s:9:"wordpress";i:5;s:10:"management";i:6;s:6:"system";i:3;s:7:"caption";i:6;s:10:"attachment";i:3;s:5:"align";i:3;s:11:"aligncenter";i:3;s:5:"width";i:3;s:5:"theme";i:5;s:6:"clever";i:4;s:6:"course";i:5;s:7:"focused";i:3;s:4:"used";i:4;s:11:"instructors";i:5;s:5:"using";i:3;s:11:"institution";i:3;s:5:"seems";i:3;s:10:"instructor";i:5;s:10:"experience";i:3;s:6:"market";i:3;s:4:"open";i:3;s:6:"easier";i:3;s:5:"tools";i:4;s:6:"create";i:3;s:5:"space";i:3;s:13:"functionality";i:3;}";'
-word_stats_cached:
-  - 1
-gfonts_meta_no_font:
-  - 1
 dsq_thread_id:
   - 3726015321
 categories:
@@ -31,7 +17,7 @@ tags:
   - Themeforest
   - wordpress
 ---
-I occasionally peruse <a href="http://themeforest.com" target="_blank">Themeforest</a> to see what new offerings they had available and I've been surprised by the number of education offerings, in particular LMS imitator themes, have popped up over the last year. In fact, they've gone ahead and created an <a href="http://themeforest.net/category/wordpress/education" target="_blank">entire Education category</a> for all the WordPress themes that are now available. To be the point a bit, two new LMS themes have become available just since August. One that went live at the beginning of September is titled &#8220;<a href="http://themeforest.net/item/lms-responsive-learning-management-system/7867581?WT.ac=category_item&WT.z_author=designthemes" target="_blank">LMS | Responsive Learning Management System</a>&#8221; and is designed by an incredibly popular author on Themeforest, <a href="http://themeforest.net/user/designthemes?WT.ac=item_profile_text&WT.z_author=designthemes" target="_blank">designthemes</a>.
+I occasionally peruse <a href="http://themeforest.com" target="_blank">Themeforest</a> to see what new offerings they had available and I've been surprised by the number of education offerings, in particular LMS imitator themes, have popped up over the last year. In fact, they've gone ahead and created an <a href="http://themeforest.net/category/wordpress/education" target="_blank">entire Education category</a> for all the WordPress themes that are now available. To be the point a bit, two new LMS themes have become available just since August. One that went live at the beginning of September is titled "<a href="http://themeforest.net/item/lms-responsive-learning-management-system/7867581?WT.ac=category_item&WT.z_author=designthemes" target="_blank">LMS | Responsive Learning Management System</a>" and is designed by an incredibly popular author on Themeforest, <a href="http://themeforest.net/user/designthemes?WT.ac=item_profile_text&WT.z_author=designthemes" target="_blank">designthemes</a>.
 
 <div id="attachment_309" style="width: 448px" class="wp-caption aligncenter">
   <a href="http://adamcroom.com/wp-content/uploads/2014/09/lms-wp-preview-new.__large_preview.jpg"><img class="wp-image-309 " src="http://adamcroom.com/wp-content/uploads/2014/09/lms-wp-preview-new.__large_preview.jpg" alt="lms-wp-preview-new.__large_preview" width="438" height="218" /></a>
@@ -65,12 +51,12 @@ I'm becoming more and more convinced that the open web is becoming incredibly ea
   </p>
 </div>
 
-I need to be explicit that I'm not advocating for every instructor to take this approach, rather just that it seems easier to do and web developers are taking notice of the growing market and building low-cost products to sell directly to instructors. I should also note that for security purposes, students who took Intro to Management for college credit still used the institutional LMS for quizzes and assignment submissions, so it's doesn't have to be an &#8220;either-or&#8221; deal BUT the theme did give us enough tools to do some basic assessment and the ability to customize to the functionality we needed, such as the <a href="https://wordpress.org/plugins/bbpress/" target="_blank">bbPress WordPress plugin</a>, to create a forum space. While the open course design wasn't anything to necessarily write home about, the platform did meet the needs of the instructor and aesthetically exceeded his expectations. So this all leads me to a few questions:
+I need to be explicit that I'm not advocating for every instructor to take this approach, rather just that it seems easier to do and web developers are taking notice of the growing market and building low-cost products to sell directly to instructors. I should also note that for security purposes, students who took Intro to Management for college credit still used the institutional LMS for quizzes and assignment submissions, so it's doesn't have to be an "either-or" deal BUT the theme did give us enough tools to do some basic assessment and the ability to customize to the functionality we needed, such as the <a href="https://wordpress.org/plugins/bbpress/" target="_blank">bbPress WordPress plugin</a>, to create a forum space. While the open course design wasn't anything to necessarily write home about, the platform did meet the needs of the instructor and aesthetically exceeded his expectations. So this all leads me to a few questions:
 
   1. Are any instructors using themes that are geared towards mirroring LMS functionality as a supplement or replacement to the institutional LMS?
   2. If not, why? Access to web space? Security? Time constraints?
   3. Has any institution adopted any process that discourages the use of these tools?
   4. Does anyone else have experience with these kind of themes? I would love opinions on theme or access to see what you have created with them. What's an instructors or students point of view of the tradeoffs to moving to a WordPress LMS imitator?
-  5. These themes seem to be doing pretty well on Themeforest. Seriously&#8230;Who are these 7,000 people and how we can start chatting?
+  5. These themes seem to be doing pretty well on Themeforest. Seriously...Who are these 7,000 people and how we can start chatting?
 
 Top image is a creative commons licensed (BY-NC-SA) flickr photo by lecercle: http://flickr.com/photos/lecercle/466799202

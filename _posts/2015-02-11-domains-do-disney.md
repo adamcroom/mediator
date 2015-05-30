@@ -81,11 +81,11 @@ Julie Ward: <http://julieannward.com/home/> and [http://span3853.julieannward.co
 ][18]<span style="font-size: 1em; line-height: 1.875em;">Kyle Harper: </span><a style="font-size: 1em; line-height: 1.875em;" href="http://www.kyleharper.net/">http://www.kyleharper.net/</a><span style="font-size: 1em; line-height: 1.875em;"> and </span><a style="font-size: 1em; line-height: 1.875em;" href="http://originsofchristianity.net">http://originsofchristianity.net<br /> </a><span style="font-size: 1em; line-height: 1.875em;">David Vishanoff: </span><a style="font-size: 1em; line-height: 1.875em;" href="http://david.vishanoff.com/">http://david.vishanoff.com/</a><span style="font-size: 1em; line-height: 1.875em;"> and </span><a style="font-size: 1em; line-height: 1.875em;" href="http://intro.vishanoff.com/">http://intro.vishanoff.com<br /> </a>David Tarpenning: [http://adproblems.com  
 ][19]Katherine Pandora: <http://digitalhumanitiesintro.net>
 
-There are others as well, such as Ralph Beliveau, who haven't create their own sites but are willing to get their students connected to OU Create. I cringe publishing this knowing I'm probably missing some others who have also jumped on board&#8230;
+There are others as well, such as Ralph Beliveau, who haven't create their own sites but are willing to get their students connected to OU Create. I cringe publishing this knowing I'm probably missing some others who have also jumped on board...
 
 [Michael Berman][20] from CSU Channel Islands [had some great comments][21] today on doing these types of projects:
 
-> If universities don't support experimentation and steps into the unknown, we will lose our leadership and miss opportunities. &#8211; A. Michael Berman
+> If universities don't support experimentation and steps into the unknown, we will lose our leadership and miss opportunities. – A. Michael Berman
 
 I appreciate that comment from an institution's CIO and am grateful to had similar leadership that's allowed us to take risks and explore. My hope is that this is just the tip of the iceberg for OU Create.
 

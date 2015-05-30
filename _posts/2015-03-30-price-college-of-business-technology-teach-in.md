@@ -35,7 +35,7 @@ tags:
   - Wiki
   - wordpress
 ---
-I attempted a few things I&#8217;ve never done before on Friday. I actually scripted a talk, word for word, for the first time ever. I printed it off, annotated it for when to change slides, hole punched it, and toted it around in a binder. How edtech is that for ya? :smirk:
+I attempted a few things I've never done before on Friday. I actually scripted a talk, word for word, for the first time ever. I printed it off, annotated it for when to change slides, hole punched it, and toted it around in a binder. How edtech is that for ya? :smirk:
 
   <a href="/uploads/2015/03/IMG_9206.jpg"><img src="/uploads/2015/03/IMG_9206-1024x768.jpg"/></a>
 
@@ -46,25 +46,25 @@ I attempted a few things I&#8217;ve never done before on Friday. I actually scr
 
 &nbsp;
 
-And then I made my slides on a Google presentation (again&#8211;a new strategy for me), so I could literally walk in with a binder and rock &#8216;n roll. I&#8217;m serious&#8211;I&#8217;m growing tired of having to have the right adapter or that minor freakout moment you have when you realize the monitor only comes with an HDMI cord and you only have the means to plug into VGA. It&#8217;s exhausting. And don&#8217;t get me started on Apple TVs&#8230;
+And then I made my slides on a Google presentation (again–a new strategy for me), so I could literally walk in with a binder and rock 'n roll. I'm serious–I'm growing tired of having to have the right adapter or that minor freakout moment you have when you realize the monitor only comes with an HDMI cord and you only have the means to plug into VGA. It's exhausting. And don't get me started on Apple TVs...
 
-This transition was a mixture of liberating and constraining at the same time, which are both positives if you are talking to a creative. I really do feel like my point was much more articulated since it wasn&#8217;t straight from my head which is known to occasionally short out at inopportune moments. I also still had enough margin to go off script a couple times. And, as minimal as Google presentations are, they allowed me to not put my stock in fancy animations and "Smart Art."
+This transition was a mixture of liberating and constraining at the same time, which are both positives if you are talking to a creative. I really do feel like my point was much more articulated since it wasn't straight from my head which is known to occasionally short out at inopportune moments. I also still had enough margin to go off script a couple times. And, as minimal as Google presentations are, they allowed me to not put my stock in fancy animations and "Smart Art."
 
-The other consequence I was trying to go for with this approach was to make this blog post a little easier. I&#8217;m starting to figure if I&#8217;m going to spend the time to write anything, much less 2500 words, that may be valuable beyond the folks gathered in the room, assuming that it doesn&#8217;t go beyond a certain threshold of sensitivity, it&#8217;s probably worth sharing here, if only as a way for me to keep an archive, for better or for worse, of my talks and presentations.
+The other consequence I was trying to go for with this approach was to make this blog post a little easier. I'm starting to figure if I'm going to spend the time to write anything, much less 2500 words, that may be valuable beyond the folks gathered in the room, assuming that it doesn't go beyond a certain threshold of sensitivity, it's probably worth sharing here, if only as a way for me to keep an archive, for better or for worse, of my talks and presentations.
 
-Lastly, I want to mention that I find myself talking less about specific tools and more about ecosystems (and, more importantly, outcomes). Or, as [Simon Sinek][1] would say, the WHY and less of the what/how. You&#8217;ll notice below that I interweave examples of whats happening on campus and not necessarily focused around one tool or technology. I am hopeful that the faculty found this to be a beneficial.
+Lastly, I want to mention that I find myself talking less about specific tools and more about ecosystems (and, more importantly, outcomes). Or, as [Simon Sinek][1] would say, the WHY and less of the what/how. You'll notice below that I interweave examples of whats happening on campus and not necessarily focused around one tool or technology. I am hopeful that the faculty found this to be a beneficial.
 
-Below is a slightly adapted version of the script for the talk I gave Friday to some faculty at the Price College of Business. And, let me tell you, this was a really cool event to be a part of. Here I am getting to talk to thirty or forty-so faculty members who were spending their day talking about *teaching.* I have to give my sincerest thanks to, first, the faculty who gave up their Friday to attend, as well as both Senior Assistant Dean Bob Dauffenbach for the invitation and Dean Daniel Pullin for his support in the event. It&#8217;s also worth noting that the College also lent an IT assistant so said problems I mentioned early wouldn&#8217;t have actually taken place this go around :smiley: You rule! This was truly one of my favorite moments to be a part of this semester and I appreciate the Price College of Business&#8217;s commitment to having conversations such as this. Anyways, without further adieu&#8230;
+Below is a slightly adapted version of the script for the talk I gave Friday to some faculty at the Price College of Business. And, let me tell you, this was a really cool event to be a part of. Here I am getting to talk to thirty or forty-so faculty members who were spending their day talking about *teaching.* I have to give my sincerest thanks to, first, the faculty who gave up their Friday to attend, as well as both Senior Assistant Dean Bob Dauffenbach for the invitation and Dean Daniel Pullin for his support in the event. It's also worth noting that the College also lent an IT assistant so said problems I mentioned early wouldn't have actually taken place this go around :smiley: You rule! This was truly one of my favorite moments to be a part of this semester and I appreciate the Price College of Business's commitment to having conversations such as this. Anyways, without further adieu...
 
 &#8212;
 
 The title of my talk appears on your agenda as “Leveraging Digital Assets to Enhance Your Class” which is about as this descriptive of a title as [this stock image][2] is unique. Thank you for allowing me to speak despite falling severely short on this front. What I’m actually going to share instead what my team, the Digital Learning Team, housed within the [Center for Teaching Excellence][3], has been working on over the course of the last couple of years.
 
-First, I want to give a quick background as to who I am and why I may have an opinion on this subject beyond my title of Director of Digital Learning. For starters, I&#8217;m a former student of the University of Oklahoma.
+First, I want to give a quick background as to who I am and why I may have an opinion on this subject beyond my title of Director of Digital Learning. For starters, I'm a former student of the University of Oklahoma.
 
 [<img src="/uploads/2015/03/CCEW1.jpg"/>][4]
 
-Here’s a picture from over seven years ago when Daniel Pullin was a newly hired, mere executive director. Mere *mortal*! I was, merely, in need of a haircut&#8230; But it was within the [Center for the Creation of Economic Wealth][5], within the Price College of Business, that I developed my love for not only technology but the entrepreneurial spirit.
+Here’s a picture from over seven years ago when Daniel Pullin was a newly hired, mere executive director. Mere *mortal*! I was, merely, in need of a haircut... But it was within the [Center for the Creation of Economic Wealth][5], within the Price College of Business, that I developed my love for not only technology but the entrepreneurial spirit.
 
 I’m an instructor in my home college, the Gaylord College of Journalism and Mass Communication. My public relations course centers around student’s as creators, digital storytellers, and visual communicators.
 
@@ -78,7 +78,7 @@ I show this picture because it’s helpful for some to know that an online Maste
 
 So my point of view is a bit of a unique one in that I’m coming at it from multiple perspectives. I have a complex and varied set of needs that I want from technology in higher ed to facilitate. The administrator part of me is interested in technologies like student information systems, the instructor part of me is interested in tools that making the management of classroom more streamlined like the learning management system, but the learner in me has a much different, deeper desire for what technology can be utilized for a course. And that is the area in which I want to focus on talking about today as I feel that is the most important perspective when it comes to making technology decisions.
 
-I want to frame my talk with an overarching question that I hope we&#8217;ll explore: “Is your classroom curriculum-centered or learner-centered?”
+I want to frame my talk with an overarching question that I hope we'll explore: “Is your classroom curriculum-centered or learner-centered?”
 
 [<img src="/uploads/2015/03/Price-College-Technology-Teach-In.jpg">][7]
 
@@ -94,7 +94,7 @@ But a paradigm shift has taken place in all learning environments. And its a shi
   </p>
 </div>
 
-And that means a shift in the roles of both the instructor and the the student. The instructor’s goal in the learning process is not merely to be the primary source of knowledge, but to guide students into making new interpretations of the learning material, thereby &#8216;experiencing&#8217; content, and it highlights the idea that significant learning is acquired through *doing*.
+And that means a shift in the roles of both the instructor and the the student. The instructor’s goal in the learning process is not merely to be the primary source of knowledge, but to guide students into making new interpretations of the learning material, thereby &#8216;experiencing' content, and it highlights the idea that significant learning is acquired through *doing*.
 
 This gets referred to a lot of times at OU, particularly within the context of the physical classroom, as active learning or the “flipped classroom.” These aren’t necessarily the newest ideas; the idea that one interacts with instruction material outside of class and where the classroom becomes a place for discussion or group activity. In fact, [Eric Mazur][8], a physics professor at Harvard University, [said][9] that the case study method utilized by both Harvard Law and Harvard Business School were some of the earliest implementations of the flipped classroom.
 
@@ -102,7 +102,7 @@ I point to this to say that these ideas aren’t radical or some new age viewp
 
 I have a couple of examples of utilization of technology within this very college that have helped begin to make that transition. My team has been working with Evgenia V. Golubeva and Ilhan Demiralp in the Division of Finance for an introductory Business Finance course since October of 2013. Their vision for beginning this transformation from curriculum-centered to learner-centered was to simply provide some online videos that could supplement the in course lectures.  Jantya has self-produced roughly 94 instruction videos that show her working through problem sets, which OU students viewed 15,244 times the first semester. Students collectively engaged with 714+ extra hours of instruction, or the equivalent of an entire month, outside of the classroom.
 
-Introduction to Management, a course from Jeremy Short, is another course in Price College that I&#8217;ve worked on for a couple of iterations. This course uses low-cost textbooks that [Jeremy delivers online][11]. A powerful use of technology is how we use online resources and deliveries to lower the cost burden of our courses on our students (I might also add its the only textbook I’ve ever read from cover to cover due to the engaging narrative that comes within the graphic novel concept). The online course has service-learning activities which take students into their own communities. This last iteration also included some really fun [instructional rap videos][12]. Believe it or not, Jeremy convinced some [local improv actors][13] to record rap videos based of some of the course’s concepts. And let me tell you, its a very unique way to learn about SWOT analyses.
+Introduction to Management, a course from Jeremy Short, is another course in Price College that I've worked on for a couple of iterations. This course uses low-cost textbooks that [Jeremy delivers online][11]. A powerful use of technology is how we use online resources and deliveries to lower the cost burden of our courses on our students (I might also add its the only textbook I’ve ever read from cover to cover due to the engaging narrative that comes within the graphic novel concept). The online course has service-learning activities which take students into their own communities. This last iteration also included some really fun [instructional rap videos][12]. Believe it or not, Jeremy convinced some [local improv actors][13] to record rap videos based of some of the course’s concepts. And let me tell you, its a very unique way to learn about SWOT analyses.
 
 <span class='embed-youtube' style='text-align:center; display: block;'></span>
 
@@ -124,11 +124,11 @@ No, this is a full scale LAMP environment (LAMP standing for Linux, Apache, MySQ
 
 [<img class="alignnone size-full wp-image-452" src="/uploads/2015/03/Price-College-Technology-Teach-In-8.jpg" alt="Price College Technology Teach-In-8" />][22]
 
-A couple notes 1.) these students are all in the same class, but have very different looks and perspectives that they are bringing in (as you see easily reflected) and 2.) I took these screenshots literally the first week of the semester before they would have had time to really be taught how to do this in a classroom. This isn&#8217;t a project only meant for classrooms focused around technology.
+A couple notes 1.) these students are all in the same class, but have very different looks and perspectives that they are bringing in (as you see easily reflected) and 2.) I took these screenshots literally the first week of the semester before they would have had time to really be taught how to do this in a classroom. This isn't a project only meant for classrooms focused around technology.
 
   <a href="/uploads/2015/03/Screen-Shot-2015-03-27-at-1.31.42-AM.png"><img  src="/uploads/2015/03/Screen-Shot-2015-03-27-at-1.31.42-AM-1024x641.png" /></a>
 
-This is a wiki being used by a [Spanish Literature course][23] taught by [Julie Ann Ward][23]. Julie has students collaboratively build wiki articles in groups about a specific reading. Wiki’s make collaborative writing very convenient. This semester we&#8217;ve discussed even having her submit the top wiki articles to Wikipedia.
+This is a wiki being used by a [Spanish Literature course][23] taught by [Julie Ann Ward][23]. Julie has students collaboratively build wiki articles in groups about a specific reading. Wiki’s make collaborative writing very convenient. This semester we've discussed even having her submit the top wiki articles to Wikipedia.
 
 **** [<img  src="/uploads/2015/03/Price-College-Technology-Teach-In-10.jpg" />][24]****
 
@@ -193,7 +193,7 @@ This student uses their blog purely to do breakdowns of Green Bay Packer footage
 
 **** [<img src="/uploads/2015/03/Screen-Shot-2015-03-27-at-2.46.18-AM-1024x982.png" />][40]****
 
-And you’ll also see posts like this. Posts that have nothing to do with class work and at the same time, *everything* to do with our community. This kind of work doesn&#8217;t happen inside a locked down learning environment like an LMS. You don&#8217;t see students produce essays like this inside a course they lose access to the day after the course ends. This isn&#8217;t an argument against the LMS, but it does the beg the question where are students allowed to do work that allows for them to weave in the life they live that exists beyond our class?
+And you’ll also see posts like this. Posts that have nothing to do with class work and at the same time, *everything* to do with our community. This kind of work doesn't happen inside a locked down learning environment like an LMS. You don't see students produce essays like this inside a course they lose access to the day after the course ends. This isn't an argument against the LMS, but it does the beg the question where are students allowed to do work that allows for them to weave in the life they live that exists beyond our class?
 
 So why does this get me excited? George Siemens [wrote in 2003][41] “What we know is less important than our capacity to continue to learn more.” And what gets me excited about learner-centered design is not only our ability to transform students into lifelong learners through this type of pedagogy, but also, thanks to the web, our ability to give students the opportunity to learn within spaces that they build, construct, and shape over time. Where they add new knowledge rather than simply consume. And that they are able to take with them beyond their four years in our seats.
 

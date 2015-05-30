@@ -2,7 +2,7 @@
 title: Zeroing in on Email
 author: Adam
 layout: post
-cover: '/uploads/2015/04/3931356331_1e3920e852_o_web.jpg'
+image: '/uploads/2015/04/3931356331_1e3920e852_o_web.jpg'
 permalink: /2015/04/zeroing-in-on-email/
 dsq_thread_id:
   - 3726015395
@@ -17,11 +17,11 @@ tags:
   - Outlook
   - Roger Sterling
 ---
-So I've been working within a new email system for almost a week and have hit the coveted #InboxZero at least once a day which is awesome. I'm sure someone will read this and say, 'The real problem is you're using email.&#8221; And that's definitely true to a degree. Email is definitely not my preferred communication method, but I've seen my email die down over the last year in favor of texting, Slack, and Twitter. To be honest, I get exhausted with the amount of ways in which I can be contacted. I identified a lot with Roger Sterling's quote from last night's Mad Men episode:
+So I've been working within a new email system for almost a week and have hit the coveted #InboxZero at least once a day which is awesome. I'm sure someone will read this and say, "The real problem is you're using email." And that's definitely true to a degree. Email is definitely not my preferred communication method, but I've seen my email die down over the last year in favor of texting, Slack, and Twitter. To be honest, I get exhausted with the amount of ways in which I can be contacted. I identified a lot with Roger Sterling's quote from last night's Mad Men episode:
 
 <blockquote class="twitter-tweet" width="550">
   <p>
-    I've got two secretaries and three telephones&#8230;I feel like Marlin Perkins is chasing me through the Savannah&#8230;. <a href="https://twitter.com/hashtag/MadMenLastCall?src=hash">#MadMenLastCall</a>
+    I've got two secretaries and three telephones...I feel like Marlin Perkins is chasing me through the Savannah.... <a href="https://twitter.com/hashtag/MadMenLastCall?src=hash">#MadMenLastCall</a>
   </p>
 
   <p>
@@ -33,11 +33,11 @@ So I've been working within a new email system for almost a week and have hit th
 
 That said, I don't see us shutting the doors on email any time soon, so if email is the preferred communication for others for now, then I'm going to try to enjoy my email experience :wink:.
 
-I started working at OU in 2011, two years after finishing school here. The problem (or the benefit was&#8230; depending on your position) was that my OU email never actually got deactivated. I fell into the [dark matter][1] of the university servers, slowly taking up more and more space bit by bit. Email by email. [Here's][2] the oldest email in my inbox. My financial aid award notification from April 6, 2005. And every email since then still sits in my very, very bloated inbox which currently tops 34,320.
+I started working at OU in 2011, two years after finishing school here. The problem (or the benefit was... depending on your position) was that my OU email never actually got deactivated. I fell into the [dark matter][1] of the university servers, slowly taking up more and more space bit by bit. Email by email. [Here's][2] the oldest email in my inbox. My financial aid award notification from April 6, 2005. And every email since then still sits in my very, very bloated inbox which currently tops 34,320.
 
 Needless to say, I've been needing an effective email solution for quite some time. OU is an Exchange campus and we rely heavily on the calendar integration so it appeared my options were limited. About two and half years ago, I deleted every possible remnants of Outlook desktop and moved over to using the online version of Exchange because having all my email stored on my hard drive was really slowing the machine.
 
-But last week I got severely backed up on emails and didn't know up from down, so I figured it was time to rethink the email solution. I've decided to move to using [Mailbox][3] and adopt the [Inbox Zero][4] mentality. My main issue with the web view of Outlook Exchange is that you can never get to 'zero&#8221; because your only views are essentially 'All Files&#8221; or various folders so I can't even sort my way to zero. So I've put together a bit of a hack that allows me to run my Exchange email with Gmail which is integrates nicely with an application I'm using called Mailbox. Here's my step-by-step guide:
+But last week I got severely backed up on emails and didn't know up from down, so I figured it was time to rethink the email solution. I've decided to move to using [Mailbox][3] and adopt the [Inbox Zero][4] mentality. My main issue with the web view of Outlook Exchange is that you can never get to "zero" because your only views are essentially "All Files" or various folders so I can't even sort my way to zero. So I've put together a bit of a hack that allows me to run my Exchange email with Gmail which is integrates nicely with an application I'm using called Mailbox. Here's my step-by-step guide:
 
 ### 1. Setup an Outlook rule to redirect your emails to a Gmail address.
 
@@ -121,7 +121,7 @@ Mailbox is really good at the email experience and has no frills. There is no ad
   <img class="wp-image-501 size-full" src="/uploads/2015/04/Screen-Shot-2015-04-13-at-3.54.06-PM.png" alt="New Message Box" width="672" height="896" />
 
   <p class="wp-caption-text">
-    Mailbox 'New Message&#8221; dialogue box. Simple and clean.
+    Mailbox "New Message" dialogue box. Simple and clean.
   </p>
 </div>
 

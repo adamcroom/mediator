@@ -3,20 +3,6 @@ title: PR Pubs Goes Online!
 author: Adam
 layout: post
 permalink: /2015/01/pr-pubs-goes-online/
-readability_ARI:
-  - 9.2
-readability_CLI:
-  - 8.9
-readability_LIX:
-  - 29
-word_stats_word_count:
-  - 1096
-word_stats_keywords:
-  - 's:526:"a:30:{s:8:"semester";i:4;s:6:"online";i:7;s:7:"section";i:3;s:7:"courses";i:3;s:6:"course";i:19;s:6:"prpubs";i:5;s:7:"caption";i:4;s:5:"using";i:5;s:4:"like";i:5;s:13:"functionality";i:5;s:6:"inside";i:3;s:5:"grade";i:3;s:4:"book";i:3;s:6:"create";i:3;s:4:"blog";i:5;s:6:"design";i:4;s:4:"week";i:3;s:7:"quizzes";i:3;s:8:"building";i:7;s:4:"take";i:4;s:8:"learning";i:3;s:8:"students";i:11;s:7:"student";i:5;s:4:"work";i:4;s:5:"learn";i:3;s:4:"face";i:12;s:5:"class";i:4;s:9:"structure";i:3;s:8:"whatever";i:3;s:4:"want";i:3;}";'
-word_stats_cached:
-  - 1
-gfonts_meta_no_font:
-  - 1
 categories:
   - Blog
 tags:
@@ -43,9 +29,9 @@ I'm back in the saddle with teaching PR Pubs at the Gaylord College. This semest
   </p>
 </div>
 
-I'm utilizing the Academy WordPress theme, one that I [blogged about before][2] and have used once before. I'll be honest, I'm very lightly using the LMS-like features of it. Most of the functionality being leveraged is the custom &#8220;Lesson&#8221; pages, but no assessment takes place on here. That is happening inside of D2L (more on that later) because the theme is currently missing some key functionality that I needed (mainly deadlines and grade book views).
+I'm utilizing the Academy WordPress theme, one that I [blogged about before][2] and have used once before. I'll be honest, I'm very lightly using the LMS-like features of it. Most of the functionality being leveraged is the custom "Lesson" pages, but no assessment takes place on here. That is happening inside of D2L (more on that later) because the theme is currently missing some key functionality that I needed (mainly deadlines and grade book views).
 
-First, I need to give a nod to a couple different points of inspiration. The first is Laura Gibbs, who is using OU Create to [blog about online course design][3]. If you browse one of her courses, you'll find a few similarities that are brand new for this course: orientation week and declaration &#8220;quizzes.&#8221; (read more from her on those aspects [here][4] and [here][5]). Many thanks to her for exposing a lot of her techniques on that blog and for building out her course on a [pbworks wiki][6]. I took a TON away from those resources. I take great admiration in how much she cares about online learning and, more importantly, her students!
+First, I need to give a nod to a couple different points of inspiration. The first is Laura Gibbs, who is using OU Create to [blog about online course design][3]. If you browse one of her courses, you'll find a few similarities that are brand new for this course: orientation week and declaration "quizzes." (read more from her on those aspects [here][4] and [here][5]). Many thanks to her for exposing a lot of her techniques on that blog and for building out her course on a [pbworks wiki][6]. I took a TON away from those resources. I take great admiration in how much she cares about online learning and, more importantly, her students!
 
 The second is [DS106.us][7], Digital Storytelling from the University of Mary Washington, which was the original inspiration for what I consider the heart of the course, the syndicated blog hub. Thank you <a href="http://bavatuesdays.com" target="_blank">Jim Groom</a> and <a href="http://cogdogblog.com" target="_blank">Alan Levine</a> for turning me on to the <a href="http://feedwordpress.radgeek.com" target="_blank">FeedWordPress</a> plugin, so that I'm able to pull in all of the student blogs RSS feeds into one space. This enables students to be exposed to each others work and learn from each othek. I've done this before for the face-to-face course, but I feel that it's power is only amplified in a fully online environment.
 

@@ -3,20 +3,6 @@ title: Scaling Creativity
 author: Adam
 layout: post
 permalink: /2014/09/scaling-creativity/
-readability_ARI:
-  - 9.3
-readability_CLI:
-  - 10.3
-readability_LIX:
-  - 32.3
-word_stats_word_count:
-  - 508
-word_stats_keywords:
-  - 's:184:"a:10:{s:4:"post";i:3;s:6:"create";i:3;s:8:"students";i:7;s:4:"mass";i:3;s:6:"course";i:4;s:10:"journalism";i:3;s:10:"journalist";i:3;s:7:"lecture";i:3;s:4:"blog";i:4;s:6:"videos";i:3;}";'
-word_stats_cached:
-  - 1
-gfonts_meta_no_font:
-  - 1
 dsq_thread_id:
   - 3726015301
 categories:
@@ -36,9 +22,9 @@ We created a hub where students can now view all of the videos from their classm
 
 [<img class="aligncenter wp-image-300" src="http://adamcroom.com/wp-content/uploads/2014/09/watch.jpg" alt="watch" width="330" height="273" />][1]
 
-As of this post, there are almost 100 videos that top 2.5 hours of students talking about the lecture. For the students, this special moment in time&#8230; the first guest lecture many have ever seen has now been personally documented by the STUDENT and it is something they can refer to for years into their journalism program and beyond. Imagine being a journalist well into your career and being able to look back and see how you originally reflected on that first journalist you ever met who is talking about how he was literally putting his life in danger daily in Iraq and Afghanistan. If you watch some of these, you soon notice the inner struggle that students have with understanding the places one might go to capture a story and they debate on whether they would do that themselves. It's some unreal stuff!
+As of this post, there are almost 100 videos that top 2.5 hours of students talking about the lecture. For the students, this special moment in time... the first guest lecture many have ever seen has now been personally documented by the STUDENT and it is something they can refer to for years into their journalism program and beyond. Imagine being a journalist well into your career and being able to look back and see how you originally reflected on that first journalist you ever met who is talking about how he was literally putting his life in danger daily in Iraq and Afghanistan. If you watch some of these, you soon notice the inner struggle that students have with understanding the places one might go to capture a story and they debate on whether they would do that themselves. It's some unreal stuff!
 
-For the student, there's power in both in the individualized space and the centralized hub. In their own blog, they own it. It's not a paper that gets submitted through a learning management system for one person's eyes to ever see. It's exposed to the world. The centralized space allows them to see that distributed conversation in a &#8220;flow&#8221; persay. It lets them judge their work across their peers and push each others creativity. For an instructor to do this, you are tell the students that their voice actually has value in the larger conversation of the boundaries of journalism. We're making creativity scalable as well as personally valuable (you, yourself, just have to have to see the beauty of both). The good news is you can <img src="http://adamcroom.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Check out all the <a href="http://create.ou.edu/tag/course-introtomasscomm/" target="_blank">student's blog posts for the course here</a> over on <a href="http://create.ou.edu" target="_blank">create.ou.edu</a>.
+For the student, there's power in both in the individualized space and the centralized hub. In their own blog, they own it. It's not a paper that gets submitted through a learning management system for one person's eyes to ever see. It's exposed to the world. The centralized space allows them to see that distributed conversation in a "flow" persay. It lets them judge their work across their peers and push each others creativity. For an instructor to do this, you are tell the students that their voice actually has value in the larger conversation of the boundaries of journalism. We're making creativity scalable as well as personally valuable (you, yourself, just have to have to see the beauty of both). The good news is you can <img src="http://adamcroom.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Check out all the <a href="http://create.ou.edu/tag/course-introtomasscomm/" target="_blank">student's blog posts for the course here</a> over on <a href="http://create.ou.edu" target="_blank">create.ou.edu</a>.
 
 &nbsp;
 

@@ -3,20 +3,6 @@ title: A GIF-Powered Time Travel of the OU Campus
 author: Adam
 layout: post
 permalink: /2014/05/a-gif-powered-time-travel-of-the-ou-campus/
-readability_ARI:
-  - 5.6
-readability_CLI:
-  - 8.4
-readability_LIX:
-  - 29.8
-word_stats_word_count:
-  - 287
-word_stats_keywords:
-  - 's:62:"a:3:{s:6:"google";i:7;s:12:"construction";i:3;s:4:"hall";i:5;}";'
-word_stats_cached:
-  - 1
-gfonts_meta_no_font:
-  - 1
 dsq_thread_id:
   - 3726015099
 categories:
@@ -68,9 +54,9 @@ One last thing I accidentally discovered perusing Google Maps was this collectio
 
 
 <div>
-  <small><a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps/views/">Views</a>: <a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps/views/view/115622432590629378233/photo/h7ovY1D1fZAAAAQIt-Wf3g">Sooner Spheres &#8211; 3</a> by <a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps/views/profile/115622432590629378233">Kevin C. Burns</a></small>
+  <small><a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps/views/">Views</a>: <a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps/views/view/115622432590629378233/photo/h7ovY1D1fZAAAAQIt-Wf3g">Sooner Spheres – 3</a> by <a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps/views/profile/115622432590629378233">Kevin C. Burns</a></small>
 </div>
 
-You can check out some more of Kevin's panoramic's on this <a href="https://www.google.com/maps/views/profile/115622432590629378233?gl=us" target="_blank">Google Maps | Views page</a> which include inside the football stadium and the National Weather Center at night. This lead me down a *new* rabbit hole of what does it take to be a &#8220;Google Trusted&#8221; photographer. Ya know, cause that would probably make a pretty cool business card.
+You can check out some more of Kevin's panoramic's on this <a href="https://www.google.com/maps/views/profile/115622432590629378233?gl=us" target="_blank">Google Maps | Views page</a> which include inside the football stadium and the National Weather Center at night. This lead me down a *new* rabbit hole of what does it take to be a "Google Trusted" photographer. Ya know, cause that would probably make a pretty cool business card.
 
  [1]: http://adamcroom.com/wp-content/uploads/2014/05/V_jmfW.gif
