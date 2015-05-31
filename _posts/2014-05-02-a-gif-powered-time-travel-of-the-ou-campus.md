@@ -17,35 +17,35 @@ Last week I was inspired by a <a href="http://iqc.ou.edu/2014/04/24/streetview/"
 
 ##### 1. Growth of the OU Research Campus
 
-<img class="alignnone size-full wp-image-241" alt="jkqZK3" src="http://adamcroom.com/wp-content/uploads/2014/05/jkqZK3.gif" width="1000" height="536" />
+<img src="/uploads/2014/05/jkqZK3.gif" />
 
-<img class="alignnone size-full wp-image-240" alt="gzsbjt" src="http://adamcroom.com/wp-content/uploads/2014/05/gzsbjt.gif" width="1000" height="536" />
+<img src="/uploads/2014/05/gzsbjt.gif"/>
 
 &nbsp;
 
 ##### 2. Addition of Sammy B to Heisman Park
 
-<img class="alignnone size-full wp-image-243" alt="3HkAUm" src="http://adamcroom.com/wp-content/uploads/2014/05/3HkAUm.gif" width="1000" height="536" />
+<img  src="/uploads/2014/05/3HkAUm.gif"/>
 
 &nbsp;
 
 ##### 3. New School of Social Work Building (Zarrow Hall) / Demo of Rhyne Hall
 
-<img class="alignnone size-full wp-image-244" alt="cVANxP" src="http://adamcroom.com/wp-content/uploads/2014/05/cVANxP.gif" width="1000" height="536" />
+<img src="/uploads/2014/05/cVANxP.gif"/>
 
-[<img class="alignnone size-full wp-image-239" alt="V_jmfW" src="http://adamcroom.com/wp-content/uploads/2014/05/V_jmfW.gif" width="1000" height="538" />][1]
+[<img src="/uploads/2014/05/V_jmfW.gif" />][1]
 
 &nbsp;
 
 ##### 4. Finishing of Devon Energy Hall
 
-<img class="alignnone size-full wp-image-242" alt="jiMYbC" src="http://adamcroom.com/wp-content/uploads/2014/05/jiMYbC.gif" width="1000" height="537" />
+<img  src="/uploads/2014/05/jiMYbC.gif"/>
 
 &nbsp;
 
 ##### 5. Utility Plant Construction
 
-<img class="alignnone size-full wp-image-238" alt="hdbO6C" src="http://adamcroom.com/wp-content/uploads/2014/05/hdbO6C.gif" width="1000" height="537" />
+<img src="/uploads/2014/05/hdbO6C.gif"/>
 
 There are a few key projects that unfortunately wasn't recaptured by the Google Street View cars. Namely, the second phase addition of Gaylord Hall and the renovation of Gould Hall. There's a good chance that Asp Ave. was blocked off due to construction when Google was making the rounds. It's also very impressive how much better the camera quality is. The 2013 images are much clearer than the 2008 images.
 
@@ -59,4 +59,4 @@ One last thing I accidentally discovered perusing Google Maps was this collectio
 
 You can check out some more of Kevin's panoramic's on this <a href="https://www.google.com/maps/views/profile/115622432590629378233?gl=us" target="_blank">Google Maps | Views page</a> which include inside the football stadium and the National Weather Center at night. This lead me down a *new* rabbit hole of what does it take to be a "Google Trusted" photographer. Ya know, cause that would probably make a pretty cool business card.
 
- [1]: http://adamcroom.com/wp-content/uploads/2014/05/V_jmfW.gif
+ [1]: /uploads/2014/05/V_jmfW.gif

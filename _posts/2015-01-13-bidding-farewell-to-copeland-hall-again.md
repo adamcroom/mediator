@@ -19,8 +19,7 @@ tags:
 ---
 I just finished packing up my office in Copeland Hall as CTE is moving to the second floor of Old Science Hall. I've got used to moving every so often as it has somehow became the standard MO every 18 or so months of my short career at OU so far for whatever reason. But Copeland Hall, you, sir, are a little different than my other touchdown spots.
 
-<div id="attachment_336" style="width: 1009px" class="wp-caption aligncenter">
-  <img class="wp-image-336" src="http://adamcroom.com/wp-content/uploads/2015/01/IMG_8546.jpg" alt="The office unfiltered before packing began." width="999" height="323" />
+  <img class="wp-image-336" src="/uploads/2015/01/IMG_8546.jpg" />
 
   <p class="wp-caption-text">
     The office unfiltered before packing began.
@@ -30,7 +29,7 @@ I just finished packing up my office in Copeland Hall as CTE is moving to the se
 For those who are unaware, Copeland Hall is actually the old Journalism building (with an emphasis on *old*). The college vacated it when Gaylord Hall opened in 2004 but many of its remnants of its former existence are very much still there. The newspaper's physical press used to actually be located in the building. You'll find a lot of oddities in Copeland you don't find in other buildings. For instance, I imagine they had the ability to make plaques because there is a plaque for everything in here. Award? Plaque! Door nameplate? Plaque! Building notice? Inscribed plaque!
 
 <div id="attachment_337" style="width: 650px" class="wp-caption aligncenter">
-  <a href="http://adamcroom.com/wp-content/uploads/2015/01/IMG_8556-e1421128452258.jpg"><img class="size-large wp-image-337" src="http://adamcroom.com/wp-content/uploads/2015/01/IMG_8556-e1421128452258-768x1024.jpg" alt="He raised the funds for the building. Definitely gets a plaque." width="640" height="853" /></a>
+  <a href="/uploads/2015/01/IMG_8556-e1421128452258.jpg"><img  src="/uploads/2015/01/IMG_8556-e1421128452258-768x1024.jpg" /></a>
 
   <p class="wp-caption-text">
     He raised the funds for the building. Definitely gets a plaque.
@@ -53,8 +52,7 @@ My job three or four nights a week was to process the ads (yes, then newspapers 
 
 I ended up working seven semesters at Student Media. Even when I would get other jobs, I always kept my hours there. It was such an enjoyable atmosphere. It was probably the first place where I began to understand what a literal "daily grind" was. Think for a second about what little commitment college-aged students usually have and then think about the commitment it takes for a college student to produce 45-50 papers in a semester. It led to a lot of meaningful arguments in the newsroom late at night. Is this story even newsworthy? Is this going too far? Most of these would come when the op-ed was being finalized. Some times (several times) we were wrong. Of course, being the lowly production assistant I got to always be Switzerland in these types of arguments. Just get the final INDD document please. As we would inch closer and closer to deadline, more and more errors start to seep through. Those errors very apparent in the morning as Jack Willis, the newsroom adviser, would carefully markup each paper and then post it in on a column in the middle of the newsroom. Some days there was so much ink it was hard to decipher what the original version even looked like. But you learned quickly that, unlike class, creating a paper wasn't about getting 70% or 80% or 90% right. It was simply how about learning how you could improve it, even if it were the smallest of details. It's as if Jack was taking your raw music and quantizing it to perfect tempo by slightly nudging it into the proper place. Unless you did a truly shoddy job. Then he might restructure your song or rewrite your chorus. This kind of workplace set such a high bar, every other job seemed easy. When I would get asked about "work load" or "burn out" in interviews, I was quick to remind them that I had worked in an environment where you literally produced a very tangible product that ran with your name inside of its contents daily. In my mind, there was nothing that came with more pressure than the paper gig.
 
-<div id="attachment_338" style="width: 650px" class="wp-caption aligncenter">
-  <a href="http://adamcroom.com/wp-content/uploads/2015/01/IMG_8555.jpg"><img class="size-large wp-image-338" src="http://adamcroom.com/wp-content/uploads/2015/01/IMG_8555-1024x768.jpg" alt="One of my favorite signs in Copeland. We're #1! We're #1!" width="640" height="480" /></a>
+  <a href="/uploads/2015/01/IMG_8555.jpg"><img  src="/uploads/2015/01/IMG_8555-1024x768.jpg" /></a>
 
   <p class="wp-caption-text">
     One of my favorite signs in Copeland. We're #1! We're #1!
@@ -70,7 +68,7 @@ The first time I met Mark Morvant on May 21, 2013, in Copeland Hall, it was a pl
 My second stint in Copeland Hall has been a much different experience than the first. I have come to really appreciate the collegiate experience from my new perspective on the other side. Copeland Hall is right next to Dale Hall, which is our main lecture hall at OU. Thousands of students walk in and out the front doors of that building daily and my window looks right at it. Because of its size, Dale Hall attracts a lot of visitors. One can frequently find a campus preacher there or a protester or a student who has submitted his day to giving free hugs or someone simply handing out hot chocolate. It's fun to be a stones throw from a campus preacher. These guys irritated me in college but now I realize how completely absurd it is and just enjoy that this plays out within my view. Every day is a carnival and that's a pretty wonderful life.
 
 <div id="attachment_339" style="width: 650px" class="wp-caption aligncenter">
-  <a href="http://adamcroom.com/wp-content/uploads/2015/01/IMG_8558.jpg"><img class="size-large wp-image-339" src="http://adamcroom.com/wp-content/uploads/2015/01/IMG_8558-1024x768.jpg" alt="All she wrote." width="640" height="480" /></a>
+  <a href="/uploads/2015/01/IMG_8558.jpg"><img  src="/uploads/2015/01/IMG_8558-1024x768.jpg"></a>
 
   <p class="wp-caption-text">
     All she wrote.
@@ -79,6 +77,6 @@ My second stint in Copeland Hall has been a much different experience than the f
 
 So, Copeland, thank you for what you've been to me. It's within here that I've grown up twice and your nuances have only accentuated those experiences. Stay weird. And long live the newspaper.
 
-<img class="size-full wp-image-334 aligncenter" src="http://adamcroom.com/wp-content/uploads/2015/01/tumblr_mz5qzg7BfX1st18yzo1_500.gif" alt="tumblr_mz5qzg7BfX1st18yzo1_500" width="500" height="286" />
+<imgsrc="/uploads/2015/01/tumblr_mz5qzg7BfX1st18yzo1_500.gif">
 
 Top image is creative commons licensed (BY) flickr photo by luigi morante: http://flickr.com/photos/eudaimos/2085017310

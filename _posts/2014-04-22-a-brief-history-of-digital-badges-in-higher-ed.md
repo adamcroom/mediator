@@ -14,8 +14,8 @@ tags:
 ---
 Yesterday I was invited to attend a meeting held by our IT Shared Services team who was giving a case study on their [digital badges project][1]. In short, they saw a professional development need for their team and wanted to build curriculum and a subsequent badging system for IT employees. IT employees now have a way to earn and document professional growth. There is also a motivation factor with a built in leaderboard so you can size yourself up next to your peers. I've spoke to them about their ideas previously, but I continue to be impressed by the effort that has gone into it, and I'm happy to see that it will be a scalable service to the rest of the University. Their pilot project is a textbook example of how to good IT departments can deploy technology properly: Figure out how IT could use it and prove out the concept. If IT can find a use case for the technology, that ownership is helpful to gain momentum campus wide. But this system will be an excellent resource for instructors and other departments looking to make the leap into open badges.
 
-<div id="attachment_194" style="width: 650px" class="wp-caption aligncenter">
-  <a href="http://adamcroom.com/wp-content/uploads/2014/04/badgesouedu.png"><img class="size-large wp-image-194" alt="badgesouedu" src="http://adamcroom.com/wp-content/uploads/2014/04/badgesouedu-1024x703.png" width="640" height="439" /></a>
+
+  <a href="/uploads/2014/04/badgesouedu.png"><img src="/uploads/2014/04/badgesouedu-1024x703.png"/></a>
 
   <p class="wp-caption-text">
     badges.ou.edu

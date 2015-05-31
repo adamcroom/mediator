@@ -22,8 +22,7 @@ This paints an almost ruleless picture of Jeff Bezos and Amazon. I had similar f
 
 &nbsp;
 
-<div id="attachment_132" style="width: 650px" class="wp-caption alignnone">
-  <img class="size-large wp-image-132" alt="Credit: openstreetsokc.com" src="http://adamcroom.com/wp-content/uploads/2014/02/openstreets-1024x542.png" width="640" height="338" />
+  <img  src="/uploads/2014/02/openstreets-1024x542.png">
 
   <p class="wp-caption-text">
     Credit: openstreetsokc.com
@@ -48,12 +47,12 @@ This is taken from The Myths of Creativity by David Burkus. This "myth" was the 
 
 Full disclosure: David Burkus is a friend of mine <a href="http://www.youtube.com/watch?v=pT8dq2D593U" target="_blank">who spoke last year at TEDxOU</a> and gave me a copy of the book to say "thank you." The last chapter of the book, "The Mousetrap Myth" is essentially his talk. It's crazy to think that you can go from one year where all you have is some loose pieces of chapters and no book title to sharing your story of the a fully published book at the next year's conference. It's been truly remarkable to watch David Burkus and his drive over the last year.
 
-<img class="alignnone size-large wp-image-155" alt="davidburkus" src="http://adamcroom.com/wp-content/uploads/2014/02/davidburkus-768x1024.jpg" width="640" height="853" />
+<img  src="/uploads/2014/02/davidburkus-768x1024.jpg"/>
 
 Unfortunately, after reading the book I now realize that David's assertion that "This all started at TEDxOU" actually violates "The Eureka Myth" which states that, instead of a quick spark, insights are actually the result of hard work on a problem or project. But nice try, David.
 
 ##### 5. Favorite Photo Esssay
 
-<img class="alignnone size-large wp-image-156" alt="buzzfeed" src="http://adamcroom.com/wp-content/uploads/2014/02/buzzfeed-1024x977.png" width="640" height="610" />
+<img src="/uploads/2014/02/buzzfeed-1024x977.png">
 
 I can’t believe the first time I post a weekly roundup that it includes something from Buzzfeed. What I do like about Buzzfeed is that they don’t do it in a slideshow or carousel. This is a sampling of the “Lean In Collection” on Getty Images. 1.) This is a just an inspiring collection of photography. The photographer in me wanted to go shoot after looking at it. 2.) As both someone who is occasionally looking for stock photography for graphics and someone who teaches a PR design course, this was a sigh of relief as you can feel creatively stifled always looking a photo that appears has a handshake (the stock photo universal symbol for business) of two “diverse” individuals.

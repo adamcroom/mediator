@@ -20,7 +20,7 @@ As I mentioned in a <a href="http://adamcroom.com/2014/08/piloting-domains-via-o
 
 We created a hub where students can now view all of the videos from their classmates: <http://jmc1013.dtarpenning.com/mikeboettcher/>. To do this, we used a WordPress plugin called <a href="https://wordpress.org/plugins/tubepress/" target="_blank">TubePress</a> which will pull in feeds from YouTube or Vimeo (channels, playlists, searches, users favorites, etc.). We created a <a href="https://www.youtube.com/playlist?list=PLxdXPFVuwjnDHGtGCwaRaGr-goRcktVeJ" target="_blank">playlist</a> for all the Mike Boettcher reaction videos so that playlist is now being automatically pulled into the website.
 
-[<img class="aligncenter wp-image-300" src="http://adamcroom.com/wp-content/uploads/2014/09/watch.jpg" alt="watch" width="330" height="273" />][1]
+[<img class="aligncenter wp-image-300" src="/uploads/2014/09/watch.jpg">][1]
 
 As of this post, there are almost 100 videos that top 2.5 hours of students talking about the lecture. For the students, this special moment in time... the first guest lecture many have ever seen has now been personally documented by the STUDENT and it is something they can refer to for years into their journalism program and beyond. Imagine being a journalist well into your career and being able to look back and see how you originally reflected on that first journalist you ever met who is talking about how he was literally putting his life in danger daily in Iraq and Afghanistan. If you watch some of these, you soon notice the inner struggle that students have with understanding the places one might go to capture a story and they debate on whether they would do that themselves. It's some unreal stuff!
 
@@ -28,4 +28,4 @@ For the student, there's power in both in the individualized space and the centr
 
 &nbsp;
 
- [1]: http://adamcroom.com/wp-content/uploads/2014/09/watch.jpg
+ [1]: /uploads/2014/09/watch.jpg

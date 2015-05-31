@@ -25,7 +25,7 @@ Well, for starters, when I started 15 years ago... I was 12. Soo my interests we
 **But where did I first learn how to code rudimentary HTML?** All I could remember was this image in my head of a brightly colored site specifically for kids teaching you HTML. So after a little Google hunt, I was actually able to find the site because, as luck would have it, It's still up. It's called <a href="http://www.lissaexplains.com/" target="_blank">Lissa Explains</a>:
 
 <div id="attachment_170" style="width: 610px" class="wp-caption alignnone">
-  <a href="http://www.lissaexplains.com/lissa.shtml"><img class="size-full wp-image-170" alt="" src="http://adamcroom.com/wp-content/uploads/2014/03/oldlayout.gif" width="600" height="450" /></a>
+  <a href="http://www.lissaexplains.com/lissa.shtml"><img src="/uploads/2014/03/oldlayout.gif"></a>
 
   <p class="wp-caption-text">
     The layout I remember from 1996. Source: lissaexplains.com

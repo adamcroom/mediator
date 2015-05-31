@@ -14,7 +14,7 @@ This semester, I decided to switch PR Publications, the Gaylord College course I
 
 I decided that there would be three different types of assignments students would do: 1.) weekly reflective posts for an ebook I had assigned called "[Designing for Emotion][2]" 2.) a design "blitz" were they would go across campus and document design concepts in real lifeand 3.) reflection posts on each design project, which will ultimately reside in their end-of-class portfolio. Additionally, I would create a separate blog that aggregated all of the student's RSS feeds. To see each of these assignments, you can go to <http://jmc3433.adamcroom.com> and click the appropriate assignment tag in the sidebar.
 
-<img class="alignnone size-large wp-image-185" alt="Screen Shot 2014-03-20 at 2.44.51 PM" src="http://adamcroom.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-20-at-2.44.51-PM-1024x715.png" width="640" height="446" />
+<img src=""/uploads/2014/03/Screen-Shot-2014-03-20-at-2.44.51-PM-1024x715.png"/>
 
 So far, my favorite portion of the blog has been reading the ebook chapter reflections. My prompt for them was short and sweet: tell me your biggest takeaway from the chapter and something, if any, that you disagreed with. I made it a point to encourage them to not simply summarize the chapter (since I had already read the book!). Very quickly, students were no longer just writing to that prompt but going above and beyond. Quickly students were using the blog as an outlet to connect the text to the design work they were doing inside, and sometimes even outside, of the classroom. Here are some of my favorite blog quotes from the first half of the semester:
 

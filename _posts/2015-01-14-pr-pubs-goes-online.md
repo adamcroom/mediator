@@ -22,7 +22,7 @@ tags:
 I'm back in the saddle with teaching PR Pubs at the Gaylord College. This semester is extra special because I've launched, for the first time in the college's history, an online section of PR Pubs. The Gaylord College has not historically offered many online courses, so I was humbled when Dean Foote asked me to test out a version of it for the Spring. I built out a course site which you can peruse at [prpubs.us][1]. Currently, 25% of the course is built out and I will continue to build out content over the semester.
 
 <div id="attachment_347" style="width: 579px" class="wp-caption aligncenter">
-  <a href="http://prpubs.us"><img class="wp-image-347" src="http://adamcroom.com/wp-content/uploads/2015/01/prpubs-1024x826.png" alt="prpubs" width="569" height="459" /></a>
+  <a href="http://prpubs.us"><img  src="/uploads/2015/01/prpubs-1024x826.png" /></a>
 
   <p class="wp-caption-text">
     <a href="http://prpubs.us">prpubs.us</a>
@@ -42,7 +42,7 @@ From a broad perspective, the course is VERY similar to the face-to-face course,
 The last thing I want to note is that, as I mentioned earlier, I'm still using the D2L assessment functionality so that students have the grade book. While building my course this semester, I realized you have the ability to change the homepage to whatever website you want it to be so PRPubs.us is literally inside of it:
 
 <div id="attachment_348" style="width: 619px" class="wp-caption aligncenter">
-  <a href="http://adamcroom.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-13-at-4.39.43-PM.png"><img class="  wp-image-348" src="http://adamcroom.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-13-at-4.39.43-PM-1024x588.png" alt="Screen Shot 2015-01-13 at 4.39.43 PM" width="609" height="350" /></a>
+  <a href="/uploads/2015/01/Screen-Shot-2015-01-13-at-4.39.43-PM.png"><img src="/uploads/2015/01/Screen-Shot-2015-01-13-at-4.39.43-PM-1024x588.png" /></a>
 
   <p class="wp-caption-text">
     PRPubs.us infiltrates the LMS!
@@ -51,7 +51,7 @@ The last thing I want to note is that, as I mentioned earlier, I'm still using t
 
 Remember that scene in Men in Black where Edgar devours Kay so Kay destroys him from inside? Yeah, something like that.
 
-[<img class=" size-full wp-image-351 aligncenter" src="http://adamcroom.com/wp-content/uploads/2015/01/yx5r9B.gif" alt="yx5r9B" width="480" height="270" />][10]
+[<img src="/uploads/2015/01/yx5r9B.gif">][10]
 
 I've heard my fair share of LMS debates over the last year or so, but, for me at least, this seems to solve most of the issues I have with it. I genuinely enjoy building with WordPress and genuinely don't enjoy building courses in D2L (I spent what felt like an eternity trying to figure out the quiz functionality). This allows me to use the CMS of my l liking when building it out and gives the added benefit of allowing the public to easily view the course's contents. *That said*, there are some excellent benefits to the LMS. First, students know to go here for course work and get access (even mobile access) to the grade book. I've done a lot of testing and, from a user perspective, and the course site still has full functionality. I only seem to get problems when I want to enter the Admin panel, but that's not a big deal and doesn't impede the student experience. Last, and most beneficial, is that students works and efforts aren't locked away. In fact, I don't, nor does any large tech company, hold the rights to the student work. If they are using OU Create, their domain is registered directly in their name and they have full ownership to do whatever they wish to do with the content at the end of the course.
 
@@ -68,4 +68,4 @@ Speaking of OU Create, we've got a couple of new shiny features for users this S
  [7]: http://DS106.us
  [8]: http://lynda.com
  [9]: http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html
- [10]: http://adamcroom.com/wp-content/uploads/2015/01/yx5r9B.gif
+ [10]: /uploads/2015/01/yx5r9B.gif
