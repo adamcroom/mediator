@@ -3,6 +3,7 @@ title: Is LMS a new market for WordPress themes?
 author: Adam
 layout: post
 permalink: /2014/09/is-lms-a-new-market-for-wordpress-themes/
+image: /uploads/2014/09/466799202_9499b02d95_o-1024x685.jpg
 dsq_thread_id:
   - 3726015321
 categories:

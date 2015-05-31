@@ -3,6 +3,7 @@ title: A Brief History of Digital Badges in Higher Ed
 author: Adam
 layout: post
 permalink: /2014/04/a-brief-history-of-digital-badges-in-higher-ed/
+image: /uploads/2014/04/2941015699_cc21a6e76b_o-1024x772.jpg
 dsq_thread_id:
   - 3726015423
 categories:

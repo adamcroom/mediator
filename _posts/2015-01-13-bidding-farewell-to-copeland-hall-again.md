@@ -3,6 +3,7 @@ title: Bidding Farewell to Copeland Hall (Again)
 author: Adam
 layout: post
 permalink: /2015/01/bidding-farewell-to-copeland-hall-again/
+image: /uploads/2015/01/2085017310_501308ab3b_o.jpg
 categories:
   - Blog
 tags:
