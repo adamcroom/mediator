@@ -1,5 +1,5 @@
 ---
-title: 'An Update On My Course's Web Project'
+title: An Update On My Course's Web Project
 author: Adam
 layout: post
 permalink: /2014/04/an-update-on-my-courses-web-project/
