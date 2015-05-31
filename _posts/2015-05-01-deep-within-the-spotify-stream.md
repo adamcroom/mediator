@@ -15,7 +15,7 @@ tags:
   - Shaun Six
   - Spotify
 ---
-.I was up late at my office last night, as I have been every night this week, working on a research project for grad school. You want to know when I feel most like a grad school student? When I open up Spotify and try to pick the perfect playlist to write too. Most times, I can';t help but pull up the same music or genre of music I listened to the undergrad. This is one of my favorite webcomics ever:
+I was up late at my office last night, as I have been every night this week, working on a research project for grad school. You want to know when I feel most like a grad school student? When I open up Spotify and try to pick the perfect playlist to write too. Most times, I can';t help but pull up the same music or genre of music I listened to the undergrad. This is one of my favorite webcomics ever:
 
 <div id="attachment_558" style="width: 510px" class="wp-caption aligncenter">
   <a href="/uploads/2015/05/every-conversation-about-music-by-everyone-over-t-10604-1306112200-25.jpg"><img class="wp-image-558 size-full" src="/uploads/2015/05/every-conversation-about-music-by-everyone-over-t-10604-1306112200-25.jpg" alt="I hate what teens listen to. Pop music peaked at the exact moment when I was most emotionally vulnerable to trite love songs." width="500" height="506" /></a>
