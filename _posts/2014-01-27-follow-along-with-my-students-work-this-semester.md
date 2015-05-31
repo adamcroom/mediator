@@ -1,5 +1,5 @@
 ---
-title: 'Follow Along With My Students' Work This Semester'
+title: Follow Along With My Students' Work This Semester
 author: Adam
 layout: post
 permalink: /2014/01/follow-along-with-my-students-work-this-semester/
