@@ -111,7 +111,7 @@ Here are the top things I'm currently diggin with Mailbox:
 
 ### Archive feature
 
-This is native to Gmail, but&#8211;holy cow&#8211;it's nice to finally have. Reply to email (or don't), archive it. Simple.
+This is native to Gmail, but–holy cow–it's nice to finally have. Reply to email (or don't), archive it. Simple.
 
 ### Clean design
 
@@ -145,7 +145,7 @@ Just look at all those buttons. Flags, colors, folders, oh my. As organized as t
 
 Mailbox gestures function similar to a mobile app. Archive > Swipe right. Schedule > Swipe left. That means spam gets archived without a click. Anyone who has ever accidentally marked something as spam in Outlook and then routed through a decision tree of adding that address to your address block to be blocked gets how convenient this is.
 
-I'm now looking at the various mobile solutions (which&#8211;ironically&#8211;Outlook seems to be strong in since their [purchase of Accompli][7]). I'm going to continue to evaluate this to see if I find anything that would pull me back to simply using Outlook for Web, but I honestly don't think it'll happen this time around. Zero is the new black!
+I'm now looking at the various mobile solutions (which–ironically–Outlook seems to be strong in since their [purchase of Accompli][7]). I'm going to continue to evaluate this to see if I find anything that would pull me back to simply using Outlook for Web, but I honestly don't think it'll happen this time around. Zero is the new black!
 
 <small>Featured image is a <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons licensed ( BY-NC-ND )</a> <a title="Dormitory Mailboxes" href="http://flickr.com/photos/25080113@N06/3931356331">flickr photo</a> shared by <a href="http://flickr.com/people/25080113@N06">ConanTheLibrarian</a></small>
 

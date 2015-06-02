@@ -3,7 +3,7 @@ title: Price College of Business Technology Teach-In
 author: Adam
 layout: post
 permalink: /2015/03/price-college-of-business-technology-teach-in/
-image: /uploads/2015/01/15718397227_313a6b38a5_o-1024x576.jpg
+image: /uploads/2015/01/15718397227_408c5f8827_k.jpg
 dsq_thread_id:
   - 3726015183
 categories:

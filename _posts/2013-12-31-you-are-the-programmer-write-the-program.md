@@ -3,20 +3,6 @@ title: You are the programmer. Write the program.
 author: Adam
 layout: post
 permalink: /2013/12/you-are-the-programmer-write-the-program/
-readability_ARI:
-  - 6.4
-readability_CLI:
-  - 7
-readability_LIX:
-  - 25.6
-word_stats_word_count:
-  - 904
-word_stats_keywords:
-  - 's:326:"a:19:{s:5:"grade";i:4;s:5:"class";i:5;s:4:"make";i:4;s:4:"like";i:4;s:7:"teacher";i:4;s:4:"told";i:3;s:6:"speech";i:6;s:4:"give";i:3;s:6:"school";i:4;s:11:"grandfather";i:3;s:7:"writing";i:3;s:6:"habits";i:3;s:5:"think";i:4;s:10:"understand";i:4;s:4:"word";i:3;s:8:"remember";i:3;s:4:"read";i:3;s:4:"life";i:6;s:4:"says";i:3;}";'
-word_stats_cached:
-  - 1
-gfonts_meta_no_font:
-  - 1
 categories:
   - Blog
 ---

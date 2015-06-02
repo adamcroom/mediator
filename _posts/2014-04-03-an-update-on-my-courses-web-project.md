@@ -30,7 +30,7 @@ So far, my favorite portion of the blog has been reading the ebook chapter refle
 
 My hope is that other courses (especially in the College of Journalism) considers a blog style format to their course. While students can be hesitant at first, they really seem to appreciate picking up the hard skills that come along with managing a blog. I've had multiple students who have since gained confidence in their web skills and have taken on roles in their clubs and organizations that give them website responsibility. Additionally, they've been able to watch other student's work progress in the class and pick up tips and vocabulary from their peers.
 
-Starting in two weeks, the students will be beginning their final project which will be to convert their blog into a portfolio-style presence. I'll be sharing examples of those final projects when the semester is over. And, by all means, if you like what you see, I don't think they would be mad if you hired them. <img src="http://adamcroom.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Starting in two weeks, the students will be beginning their final project which will be to convert their blog into a portfolio-style presence. I'll be sharing examples of those final projects when the semester is over. And, by all means, if you like what you see, I don't think they would be mad if you hired them. :smiley:
 
  [1]: http://adamcroom.com/2014/01/follow-along-with-my-students-work-this-semester/
  [2]: http://www.abookapart.com/products/designing-for-emotion
