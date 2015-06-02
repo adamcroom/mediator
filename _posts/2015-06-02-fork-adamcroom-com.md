@@ -13,7 +13,7 @@ categories: Github, Indie Edtech
 >
 > — Robert Louis Stevenson, *The Strange Case of Dr. Jekyll and Mr. Hyde*
 
-Recently, I stumble across [Kris Shaffer's][kris] project, [Open Music Theory][openmusictheory], which is a textbook hosted entirely on Github utilizing [Jekyll][jekyll], a "blog-aware, static site generator."" This means if someone else who teaches music theory wants in on the textbook, they can not only quickly create a website for it through Github (which is called "forking" a repository), but they can delete the chapters they don't want and modify the text of others to their taste. In fact, if they think they have found an error they want to suggest back to the original work, they can submit what is called a [pull request][pullrequest] which alerts the author and they can decide to accept the request. If they do, this will change the version.
+Recently, I stumbled across [Kris Shaffer's][kris] project, [Open Music Theory][openmusictheory], which is a textbook hosted entirely on Github utilizing [Jekyll][jekyll], a "blog-aware, static site generator."" This means if someone else who teaches music theory wants in on the textbook, they can not only quickly create a website for it through Github (which is called "forking" a repository), but they can delete the chapters they don't want and modify the text of others to their taste. In fact, if they think they have found an error they want to suggest back to the original work, they can submit what is called a [pull request][pullrequest] which alerts the author and they can decide to accept the request. If they do, this will change the version.
 
 This has really intruiging implications for open textbook adoption. Further, I've always thought there's something deeply romantic about the discourse that takes place around how a text is formed. It wasn't until recently that I learned, thanks to my good friend and Open Education Resource wizard, [Stacy Zemke][stacyzemke], that there's a little "Talk" tab where you can see conversations about Wikipedia articles.
 
@@ -41,7 +41,7 @@ Continuing on the Wikipedia analogy, it's been interesting to look at the Federa
 
 And while Mike is brilliantly thinking on this application to wikis, I'm thinking about everything as simple as my own personal website. How can I be the original owner, and thus the authority, on myself, but still lend the site's infrastructure and content?
 
-I start poking around an article Kris wrote on [Hybrid Pedagogy][hybridpedagogy] called ["Push, Pull Fork: Github for Academics"][hybridpedgithub] and made an unexpected move this weekend. I exported my entire personal web site and blog, which runs on the Wordpress platform, and moved it to Jekyll (hosted on Github). This means, for the first time in five years, I'm working on a site that is 100% Wordpress free. The two different versions are below:
+I started poking around an article Kris wrote on [Hybrid Pedagogy][hybridpedagogy] called ["Push, Pull Fork: Github for Academics"][hybridpedgithub] and made an unexpected move this weekend. I exported my entire personal web site and blog, which runs on the Wordpress platform, and moved it to Jekyll (hosted on Github). This means, for the first time in five years, I'm working on a site that is 100% Wordpress free. The two different versions are below:
 
 ![adamcroom.com][newsite]
 
