@@ -49,7 +49,7 @@ See the difference? :wink:
 
 ### Forkable
 
-Honestly, this is the major reason I moved over to Github pages. If you want to take pieces of my site, or the *entire* site, you now can down this with the click of a button. On Github, you can *fork*, meaning you can make a copy of my repository and experiment with the site without actually affecting my site.
+Honestly, this is the major reason I moved over to Github pages. If you want to take pieces of my site, or the *entire* site, you now can down this with the click of a button. On Github, you can *fork*, meaning you can make a copy of my repository and experiment with the site without actually affecting my site. Go ahead and [check out the repository][repo]!
 
 This is something I wanted to explore mainly for my course site, [prpubs.us][prpubs], but tested out with my main domain for the first go around. And I'm pleasantly surprised with how much I've enjoyed the experience so far. It's one thing to put a Creative Commons license on a website (really, I think that's fantastic!), but that doesn't make the webpage any easier to recreate. In fact, if you decided to pull anything out of my currently CC-licensed course site, you'd be met with the resistance of broken code that doesn't work outside the ecosystem that I've created. Most people would spend more time than its worth.
 
@@ -101,3 +101,4 @@ I tried to keep as much tech out of this as possible (I failed, sorry...). So ra
 [audrey]: [http://audreywatters.com/2013/07/07/how-to-run-your-site-on-github/]
 [youtube]: https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 [cycle]: /uploads/2015/06/cycle.jpg
+[repo]: https://github.com/adamcroom/mediator
