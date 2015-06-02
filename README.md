@@ -1,7 +1,7 @@
 adamcroom.com
 ========
 
-adamcroom.com is built on on Jekyll and uses a medium inspired blog theme called [Mediator][https://github.com/dirkfabisch/mediator/]. The basic idea came from the Ghost theme
+adamcroom.com is built on on Jekyll and uses a medium inspired blog theme called [Mediator](https://github.com/dirkfabisch/mediator/). The basic idea came from the Ghost theme
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/).
 
 Features
