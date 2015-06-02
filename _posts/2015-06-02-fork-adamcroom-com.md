@@ -5,6 +5,8 @@ layout: post
 date:   2015-06-02 14:40:25
 permalink: /2015/05/fork-adamcroom-com/
 image: /uploads/2015/06/hitch.jpg
+tags: featured
+categories: Github, Indie Edtech
 ---
 
 > It is one thing to mortify curiosity, another to conquer it.
