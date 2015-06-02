@@ -85,7 +85,7 @@ I tried to keep as much tech out of this as possible (I failed, sorry...). So ra
 [openmusictheory]:http://openmusictheory.com/
 [pullrequest]: http://oss-watch.ac.uk/resources/pullrequest
 [stacyzemke]:#
-[kiss]: /uploads/2015/06/kiss.jpg
+[kiss]: /uploads/2015/06/Kiss.jpg
 [hybridpedagogy]:http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/
 [hybridpedgithub]: http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/
 [wired]: http://www.wired.com/2012/07/wiki-inventor/
