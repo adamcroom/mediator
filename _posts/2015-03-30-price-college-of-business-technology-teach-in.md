@@ -3,7 +3,7 @@ title: Price College of Business Technology Teach-In
 author: Adam
 layout: post
 permalink: /2015/03/price-college-of-business-technology-teach-in/
-image: /uploads/2015/01/15718397227_408c5f8827_k.jpg
+image: /uploads/2015/06/continuum.jpg
 dsq_thread_id:
   - 3726015183
 categories:
@@ -38,14 +38,9 @@ tags:
 ---
 I attempted a few things I've never done before on Friday. I actually scripted a talk, word for word, for the first time ever. I printed it off, annotated it for when to change slides, hole punched it, and toted it around in a binder. How edtech is that for ya? :smirk:
 
-  <a href="/uploads/2015/03/IMG_9206.jpg"><img src="/uploads/2015/03/IMG_9206-1024x768.jpg"/></a>
+  <a href="/uploads/2015/03/IMG_9206.jpg"><img src="/uploads/2015/03/IMG_9206.jpg"/></a>
 
-  <p class="wp-caption-text">
-    The binder AKA "Ol' Trusty"
-  </p>
-</div>
-
-&nbsp;
+<center>The binder AKA "Ol' Trusty"</center>
 
 And then I made my slides on a Google presentation (again–a new strategy for me), so I could literally walk in with a binder and rock 'n roll. I'm serious–I'm growing tired of having to have the right adapter or that minor freakout moment you have when you realize the monitor only comes with an HDMI cord and you only have the means to plug into VGA. It's exhausting. And don't get me started on Apple TVs...
 
@@ -63,7 +58,7 @@ The title of my talk appears on your agenda as “Leveraging Digital Assets to E
 
 First, I want to give a quick background as to who I am and why I may have an opinion on this subject beyond my title of Director of Digital Learning. For starters, I'm a former student of the University of Oklahoma.
 
-[<img src="/uploads/2015/03/CCEW1.jpg"/>][4]
+<center>[<img src="/uploads/2015/03/CCEW1.jpg"/>][4]</center>
 
 Here’s a picture from over seven years ago when Daniel Pullin was a newly hired, mere executive director. Mere *mortal*! I was, merely, in need of a haircut... But it was within the [Center for the Creation of Economic Wealth][5], within the Price College of Business, that I developed my love for not only technology but the entrepreneurial spirit.
 
