@@ -29,7 +29,7 @@ My point is that the presentation of information is one *layer* of the web. Disc
 
 ![Web Cycle][cycle]
 
-I see a lot of folks looking at the presentation and the social aspects that come thereof, but (for whatever reason) I don't see a lot of people looking at how we structure the architecture that allows this to happen. What are the principles in which we need to build education technologies? To what standards do we hold companies (and even ourselves)? How can we begin to define **indie edtech**?
+I see a lot of folks looking at the presentation and the social aspects that come thereof, but (for whatever reason) I don't see a lot of people looking at how we structure the architecture that allows this to happen. What are the principles in which we can harness to build education technologies? To what standards do we hold companies (and even ourselves)? How can we begin to define **indie edtech**?
 
 Continuing on the Wikipedia analogy, it's been interesting to look at the Federated Wiki project from the creator of the Wiki, Ward Cunningham, quoted from [Wired][wired]:
 
@@ -49,7 +49,7 @@ See the difference? :wink:
 
 ### Forkable
 
-Honestly, this is the major reason I moved over to Github pages. If you want to take pieces of my site, or the *entire* site, you now can down this with the click of a button. On Github, you can *fork*, meaning you can make a copy of my repository and experiment with the site without actually affecting my site. Go ahead and [check out the repository][repo]!
+Honestly, this is the major reason I moved over to Github pages. If you want to take pieces of my site, or the *entire* site, you now can download this with the click of a button. On Github, you can *fork*, meaning you can make a copy of my repository and experiment with the site without actually affecting my site. Go ahead and [check out the repository][repo]!
 
 This is something I wanted to explore mainly for my course site, [prpubs.us][prpubs], but tested out with my main domain for the first go around. And I'm pleasantly surprised with how much I've enjoyed the experience so far. It's one thing to put a Creative Commons license on a website (really, I think that's fantastic!), but that doesn't make the webpage any easier to recreate. In fact, if you decided to pull anything out of my currently CC-licensed course site, you'd be met with the resistance of broken code that doesn't work outside the ecosystem that I've created. Most people would spend more time than its worth.
 
@@ -60,13 +60,13 @@ This is something I wanted to explore mainly for my course site, [prpubs.us][prp
 
 ### Backup and Security
 
-The second big win for Github and Jekyll is that my entire site is cloned to my Dropbox account. I've got a certain level of peace of mind in knowing should anything happen to my site, I can always quickly reupload the entire thing. I've ran across more instances recently where I'm frantically trying to update all my different Wordpress instances because of a large and necessary update and it feels good to veer a little further away from that. This is solved because while Wordpress utilizes dynamic code and relies on database call, Jekyll is purely static on the server side. No need to worry about someones Wordpress plugin code.
+The second big win for Github and Jekyll is that my entire site is cloned to my Dropbox account. I've got a certain level of peace of mind in knowing that should anything happen to my site, I can always quickly reupload the entire thing. I've ran across more instances recently where I'm frantically trying to update all my different Wordpress instances because of a large and necessary update and it feels good to veer a little further away from that. This is solved because while Wordpress utilizes dynamic code and relies on database calls, Jekyll is purely static on the server side. Additionally, there's no need to worry about someones Wordpress plugin code.
 
-So am I now anti-Wordpress? Absolutely not. In fact, I still would argue its the easiest entry point into publishing on the open web. It's relatively user-friendly and gives you a lot of features that are great for a classroom, such as an intuitive admin panel, and extreme flexibility. I'm just more interested moving beyond the presentation of information and coalescing around the idea of technology that has the necessary infrastructure for shareability and discussion.
+So am I now anti-Wordpress? Absolutely not. In fact, I still would argue its the easiest entry point into publishing on the open web. It's relatively user-friendly and gives you a lot of features that are great for a classroom, such as an intuitive admin panel and extreme flexibility. I'm just more interested moving beyond the presentation of information and coalescing around the idea of technology that has the necessary infrastructure for shareability and discussion.
 
 ### Some "how" info
 
-I tried to keep as much tech out of this as possible (I failed, sorry...). So rather than posting a tutorial for how to make this happen, I'll post some the links that helped me make the transition:
+I tried to keep as much tech out of this post as possible (I probably failed, sorry...). So rather than posting a tutorial for how to make this happen, I'll post some the links that helped me make the transition:
 
 - [Push, Pull Fork: Github for Academics (Kris Shaffer, Hybrid Pedagogy)][hybridpedgithub]
 - [How-to: Migrating Blog from WordPress to Jekyll, and Host on Github (Tomomi Imura)][migrate]
@@ -86,7 +86,7 @@ I tried to keep as much tech out of this as possible (I failed, sorry...). So ra
 [pullrequest]: http://oss-watch.ac.uk/resources/pullrequest
 [stacyzemke]:#
 [kiss]: /uploads/2015/06/Kiss.jpg
-[hybridpedagogy]:http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/
+[hybridpedagogy]:http://www.hybridpedagogy.com/
 [hybridpedgithub]: http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/
 [wired]: http://www.wired.com/2012/07/wiki-inventor/
 [holden]: https://twitter.com/holden
