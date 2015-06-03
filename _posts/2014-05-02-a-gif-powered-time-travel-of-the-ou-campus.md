@@ -3,6 +3,7 @@ title: A GIF-Powered Time Travel of the OU Campus
 author: Adam
 layout: post
 permalink: /2014/05/a-gif-powered-time-travel-of-the-ou-campus/
+image: /uploads/2014/05/whitecollar.jpg
 dsq_thread_id:
   - 3726015099
 categories:
@@ -58,5 +59,7 @@ One last thing I accidentally discovered perusing Google Maps was this collectio
 </div>
 
 You can check out some more of Kevin's panoramic's on this <a href="https://www.google.com/maps/views/profile/115622432590629378233?gl=us" target="_blank">Google Maps | Views page</a> which include inside the football stadium and the National Weather Center at night. This lead me down a *new* rabbit hole of what does it take to be a "Google Trusted" photographer. Ya know, cause that would probably make a pretty cool business card.
+
+<small>Cover photo is a <a title="White Collar, c. 1940 - Linocuts by Giacomo G. Patri" href="http://flickr.com/photos/49580580@N02/7011728709">flickr photo</a> shared by <a href="http://flickr.com/people/49580580@N02">Thomas Shahan 3</a> under a <a href="http://creativecommons.org/licenses/by/2.0/">Creative Commons ( BY ) license</a> </small>
 
  [1]: /uploads/2014/05/V_jmfW.gif

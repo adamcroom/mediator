@@ -3,7 +3,7 @@ title: Is LMS a new market for WordPress themes?
 author: Adam
 layout: post
 permalink: /2014/09/is-lms-a-new-market-for-wordpress-themes/
-image: /uploads/2014/09/466799202_9499b02d95_o-1024x685.jpg
+image: /uploads/2014/09/fishmarket.jpg
 dsq_thread_id:
   - 3726015321
 categories:
@@ -59,4 +59,6 @@ I need to be explicit that I'm not advocating for every instructor to take this 
   4. Does anyone else have experience with these kind of themes? I would love opinions on theme or access to see what you have created with them. What's an instructors or students point of view of the tradeoffs to moving to a WordPress LMS imitator?
   5. These themes seem to be doing pretty well on Themeforest. Seriously...Who are these 7,000 people and how we can start chatting?
 
-Top image is a creative commons licensed (BY-NC-SA) flickr photo by lecercle: http://flickr.com/photos/lecercle/466799202
+  <small>Cover Photo Credit: [Christina Sicoli][1]</small>
+
+  [1]:https://stocksnap.io/photo/R1XMUCMQVV

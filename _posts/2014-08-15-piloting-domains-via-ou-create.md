@@ -3,6 +3,7 @@ title: Piloting Domains via OU Create
 author: Adam
 layout: post
 permalink: /2014/08/piloting-domains-via-ou-create/
+image: /uploads/2014/08/wing.jpg
 dsq_thread_id:
   - 3726015498
 categories:
@@ -40,9 +41,9 @@ The public-ness of a project like this instantly changes coursework from an exer
 
 The end of that last line is what really resonates with me: "construct purposeful identifies as learners." Students have digital identities which are often rarely reflect them as learners. Your lifebits, a term from J[ohn Udell][14], are out there and form a collective you. What pieces of you can people find that identify you as a learner? I believe its (at minimum) an opportunity and (at most) the highest responsibility for the institution to guide students in shaping identities as learners.
 
-<div>
-  <span style="color: #000000;"><strong><span style="font-family: Arial, Helvetica, sans-serif;">3. Give Students Blank Canvas</span></strong></span>
-</div>
+<p style="color: #000000;">
+  <strong>3. Give Students Blank Canvas</span></strong></span>
+  </p>
 
 OU Create gives students access to a suite of technologies which can simply elevate digital literacy campus wide.  Not only will students be able to highlight their creativity in their courses, they will be able to be creative in how it is presented by choosing the application that matches their goals for the sites. If they want something extremely user-friendly like [WordPress,][6] which focuses on blogging, we have that. Want to create your own Wiki? Use [DokuWiki][15] or MediaWiki (which runs Wikipedia). Want to create your own cloud storage solution and get off tools like Dropbox? Install [OwnCloud][16]. Want to display collections and research? Install [Omeka][17]. Want to use all of them? You can totally do that too! Jim [wrote an excellent piece][18] (if I do say say myself!) using the domain as an analogy for a house with subdomains as different rooms. You can use one or all of the applications as you wish.
 
@@ -55,6 +56,8 @@ One of the biggest takeaways from seeing what's happened for Domain of One's Own
 While there is a lot to be excited about, this is still very much in a pilot phase and we have several questions, technical and non-technical that we have to answer. How scalable is this beyond this semester's 500 domains? What support will the OU community ultimately need? Do we have a culture that can sustain and support it? Can we show similar results that student success was advanced? Do the students recognize the ownership aspect of a .com vs. gets a folder of an OU subdomain and do they deem that an important aspect?
 
 I've got my own opinions to all of those questions and I'll be sure to write about them as we make our way through this academic year, but I could definitely use your assistance in answering these as well. If you are a student, faculty, or staff member interested in what OU Create can offer, go logon to <http://create.ou.edu> and fill out a form to request access to register a domain.
+
+<small>Cover Photo Credit: [Nate Mueller][22]</small>
 
  [1]: http://www.clemson.edu/academics/programs/eportfolio/
  [2]: http://twitter.com/markmorvant
@@ -77,3 +80,4 @@ I've got my own opinions to all of those questions and I'll be sure to write abo
  [19]: http://tumblr.com
  [20]: http://medium.com
  [21]: http://blogger.com
+ [22]: https://stocksnap.io/photo/C6F20A6BFA
