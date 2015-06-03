@@ -38,7 +38,7 @@ If you want to check out other digital learning experiences I have designed, che
   * <a href="http://teachin.ou.edu/" target="_blank">OU Teach-In</a>, &#8220;A Day With Some of the Greatest Teachers in America&#8221;
   * <a href="http://ccew.ou.edu/nowandnext/" target="_blank">The Now and the Next</a>, OU Center for the Creation of Economic Wealth
 
- [1]: http://adamcroom.com/wp-content/uploads/2013/12/IMG_5856.jpg
+ [1]: /uploads/2013/12/IMG_5856.jpg
  [2]: https://maps.google.com/maps?q=Norman,+OK&hl=en&ll=35.222624,-97.439804&spn=0.357313,0.681839&sll=35.246821,-97.36237&sspn=0.357206,0.681839&hnear=Norman,+Cleveland,+Oklahoma&t=m&z=11
  [3]: http://summitonline.tv/
  [4]: http://prpubs.us
