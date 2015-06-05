@@ -84,7 +84,7 @@ I tried to keep as much tech out of this post as possible (I probably failed, so
 [kris]:https://twitter.com/krisshaffer
 [openmusictheory]:http://openmusictheory.com/
 [pullrequest]: http://oss-watch.ac.uk/resources/pullrequest
-[stacyzemke]:h ttps://twitter.com/slzemke
+[stacyzemke]:https://twitter.com/slzemke
 [kiss]: /uploads/2015/06/Kiss.jpg
 [hybridpedagogy]:http://www.hybridpedagogy.com/
 [hybridpedgithub]: http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/
