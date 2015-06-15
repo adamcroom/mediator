@@ -43,6 +43,8 @@ This seems to lineup well with the new UX/UI designs which desire to only prompt
 
 So can Known become a users new Control Panel? On the premise of Known being an engine for anything, one can hope the idea might actually be plausible!
 
+<small>Cover photo credit:[Jake Melara][10]
+
 [1]: http://dml2015.dmlhub.net
 [2]: https://twitter.com/timmmmyboy
 [3]: http://create.ou.edu
@@ -52,3 +54,4 @@ So can Known become a users new Control Panel? On the premise of Known being an 
 [7]: http://reclaimhosting.com
 [8]: uploads/2015/06/genewilder.gif
 [9]: https://twitter.com/mgershovich
+[10]: https://stocksnap.io/photo/B37CDDF559
