@@ -10,7 +10,6 @@ categories:
   - Conferences
 
 tags:
-  featured
   - Alec Couros
   - Amy Collier
   - Audrey Watters
