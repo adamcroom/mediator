@@ -3,7 +3,7 @@ title: Beginning with the Known
 author: Adam
 layout: post
 date:   2015-06-15 14:40:25
-permalink: /2015/05/fork-adamcroom-com/
+permalink: /2015/06/beginning-with-the-known/
 image: /uploads/2015/06/fog.jpg
 tags: featured
 categories: Known, OU Create
