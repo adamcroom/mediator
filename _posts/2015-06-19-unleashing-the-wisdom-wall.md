@@ -2,7 +2,7 @@
 title: Unleashing the Wisdom Wall
 author: Adam
 layout: post
-date:   2015-06-15 13:25:25
+date:   2015-06-19 13:25:25
 permalink: /2015/06/unleashing-the-wisdom-wall/
 image: /uploads/2015/06/walladvice.jpg
 tags:
