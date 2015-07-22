@@ -8,7 +8,7 @@ image: /uploads/2015/07/car.jpg
 tags: featured
 categories: MALT
 ---
-It's been one quick summer and I'm afraid I've written less on this blog than I originally anticipated. Summers are always funny because they are, to a degree, this false hope that you now have time to get pet project done. In reality, you take a vacation, important people that you need to help also take a vacation, you get distracted with new, top priority project... Next thing you know its the middle of July and everyone looks like deer in headlights knowing that Fall is right around the corner. Surprise!
+It's been one quick summer and I'm afraid I've written less on this blog than I originally anticipated. Summers are always funny because they are, to a degree, this false hope that you now have time to get your pet project done. In reality, you take a vacation, important people that you need to help also take a vacation, you get distracted with new, top priority project... Next thing you know its the middle of July and everyone looks like deer in headlights knowing that Fall is right around the corner. Surprise!
 
 I'm teaching the first summer edition of [PR Pubs][1], which is certainly a different pace, and we are getting to roll out a couple fun CTE Digital Learning Team projects, which is certainly very awesome and I'm excited to talk about soon. Last, but not least, I finally wrapped up my masters program at Pepperdine University exactly one week ago. My mind tends to devolve to watching mindless summer programming and I've been watching, dare I say, a significant amount of American Ninja Warrior this summer. Anyways, I imagine finishing my masters is my closest life equivalent I'll ever have to hitting the button at the end of a ninja warrior course.
 <center>
