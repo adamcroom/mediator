@@ -5,7 +5,7 @@ layout: post
 date:   2015-06-15 14:40:25
 permalink: /2015/06/beginning-with-the-known/
 image: /uploads/2015/06/fog.jpg
-tags: featured
+tags: 
 categories: Known, OU Create
 ---
 I just returned from [DML2015][1] and plan to pen a few blog posts from ideas that spawned there. But I'll go ahead and jump right in and say that my friend [Tim Owens][2] is one smart man and spending time with him only gets me more excited about the opportunities of where we can take the Domain's of One's Own initiative, both at [OU][3] and more broadly.
