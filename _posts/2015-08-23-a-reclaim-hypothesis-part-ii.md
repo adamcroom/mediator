@@ -12,15 +12,17 @@ On Friday, I wrote a [post][1] on my excitement about OU Create now being availa
 
 >This email feels like another giant leap in Reclaim’s short history, and we could have only gotten to this point because we work with some seriously awesome folks who want to empower their community members to share far and wide.
 
-In Part I, I thought out-loud on some ideas about subdomains. And by thinking-out-loud I mostly meant going on a couple unnecessary tangents. I've also annotated Jim's blog post using [Hypothes.is][8]. If you go to [http://via.hypothes.is/bavatuesdays.com/a-long-short-history-of-reclaim-hosting/][9], you'll see eight line-by-line comments to his post.
+In Part I, I thought out loud on some ideas about subdomains. And by thinking-out-loud I mostly mean going on a couple unnecessary tangents.
+
+I've also annotated Jim's blog post using [Hypothes.is][8]. If you go to [http://via.hypothes.is/bavatuesdays.com/a-long-short-history-of-reclaim-hosting/][9], you'll see eight line-by-line comments to his post.
 
 ![hypothes.is on the Bava](/uploads/2015/08/hypothesis.jpg)
 
-I explain hypothes.is as the ability to annotate line-by-line to any page on the web (kind of like Medium). The original intention of this post was to retell his story from my point of view and sort of go line-by-line from his recollection. Instead, I decided to use this as a test case to use hypothes.is for the first time. You can see that my annotations have also been aggregated to my own Hypothes.is [public stream][10]:
+I explain hypothes.is as the ability to annotate line-by-line to any page on the web (kind of like brining Medium everywhere). The original intention of this post was to retell his story from my point of view and sort of go line-by-line from his recollection. Instead, I decided to use this as a test case to use hypothes.is for the first time. You can see that my annotations have also been aggregated to my own Hypothes.is [public stream][10]:
 
 ![hypothes.is stream](/uploads/2015/08/hypothesisstream.jpg)
 
-My mind is kind of blown thinking thinking about how we can bring a social experience to online reading anywhere and then have our own record of said conversations...
+My mind is kind of blown thinking about how we can bring a social experience to online reading anywhere and then have our own record of said conversations...
 
 A big shout out to [Jeremy Dean][5] who responded by when I sent out the following tweet:
 
