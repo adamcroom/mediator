@@ -5,7 +5,7 @@ layout: post
 date:   2015-07-22 16:22:25
 permalink: /2015/06/finishing-up-at-pepperdine/
 image: /uploads/2015/07/car.jpg
-tags: featured
+tags: 
 categories: MALT
 ---
 It's been one quick summer and I'm afraid I've written less on this blog than I originally anticipated. Summers are always funny because they are, to a degree, this false hope that you now have time to get your pet project done. In reality, you take a vacation, important people that you need to help also take a vacation, you get distracted with new, top priority project... Next thing you know its the middle of July and everyone looks like deer in headlights knowing that Fall is right around the corner. Surprise!
