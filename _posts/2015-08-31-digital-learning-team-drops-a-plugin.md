@@ -1,9 +1,9 @@
 ---
-title: Digital Learning Team Drops a Plugin
+title: Digital Learning Team Drops a Wordpress Plugin
 author: Adam
 layout: post
 date:   2015-08-31 16:22:25
-permalink: /2015/08/digital-learning-team-drops-a-plugin/
+permalink: /2015/08/digital-learning-team-drops-a-wordpress-plugin/
 image: /uploads/2015/08/cable.jpg
 tags:
 categories:
