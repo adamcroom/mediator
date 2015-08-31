@@ -10,13 +10,13 @@ categories:
 ---
 Back in March, I wrote about the speaking at the [Price College of Business Technology Teach-In][1]. My fearless leader, [Mark Morvant][2] had the great idea of bringing this conversation to the [Gaylord College of Journalism][3], my home college and where I currently teach. The real pulling of the strings came from [Buddy Wiedemann][4] and Intern Dean [Ed Kelley][5], so thanks to both for putting on an informative event for the college faculty.
 
-Rather than give a 30 minute presentation like I did for Price, I was asked to sit on a faculty panel and discuss the "The Benefits and Challenges of Teaching in the Digital World." This was one of the most humbling experiences of my career because both people on the panel (David Tarpenning and Robert Kerr) as well as the moderator ([Ralph Beliveau][8]) are not only former professors of mine but arguably the three most influential. Ralph was my first professor in Gaylord and taught Intro to Mass Communications. I've always had an appreciation for his intellect and sense of humor. The guy can spout more deep and sound thoughts faster than anyone of I've ever met. I liked him so much I actually elected to have him a second time. :smile:
+Rather than give a 30 minute presentation like I did for Price, I was asked to sit on a faculty panel and discuss the "The Benefits and Challenges of Teaching in the Digital World." This was one of the most humbling experiences of my career because both people on the panel (David Tarpenning and Robert Kerr) as well as the moderator ([Ralph Beliveau][8]) are not only my former professors but arguably the three most influential. Ralph was my first professor in Gaylord and taught Intro to Mass Communications. I've always had an appreciation for his intellect and sense of humor. The guy can spout more deep and sound thoughts faster than anyone of I've ever met. I liked him so much I actually elected to have him a second time. :smile:
 
 David Tarpenning was one of the first to really show me what it was like to care and have compassion for his students. Few people invest in students the way that Tarpenning does. And, while it was in his class that I decided I was probably going to never be an agency type of guy (I've always wanted to work on the organization side), I read one of my favorite books, [Confessions of an Ad Man][6] by David Ogilvy.
 
-Last, Robert Kerr, who taught my Media Law course, was the first professor I saw integrate student-created media into the classroom. His lectures were littered with videos that had been produced by students in former semesters. The guy is so committed to making law seem interesting to students and for that I'm am forever grateful. :smile:
+Last, Robert Kerr, who taught my Media Law course, was the first professor I saw integrate student-created media into the classroom. Even a decade ago, his lectures were littered with videos that had been produced by students in former semesters. The guy is so committed to making law seem interesting to students and for that I'm am forever grateful. :smile:
 
-So, yeah, let's me reiterate how humbling it is to be settling next to three of your undergraduate idols. Below is a video of my remarks during the panel.
+So, yeah, let's me reiterate how humbling it is to be settling next to three of your undergraduate idols. Below is a video of my remarks during the panel (my comments start at the 23:55 mark).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rbSKnNdeRJY" frameborder="0" allowfullscreen></iframe>
 
@@ -38,15 +38,13 @@ Again, thanks to the Gaylord College for the holding the event and an even bigge
 
 >> In 1974, a writer for Rolling Stone went to a little club in New Jersey and then he wrote in the next issue he said, "I've seen the future of rock and roll and his name is Bruce Springsteen." ... When I look at Adam today, and I see what he is doing, and I think, "What is the future of digital education?" I think it looks something like Adam Croom.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rbSKnNdeRJY" frameborder="0" allowfullscreen></iframe>
-
 I mean, come on. Your former professor comparing you to The Boss! I've died and gone to Heaven (though I think it also means I have nothing left to accomplish). So I'll go now and bask in that comment for awhile.
 
-![The Boss](/uploads/2015/08/bruce.gif)
+<center>![The Boss](/uploads/2015/08/bruce.gif)</center>
 
 
-<small>Cover photo credit: [João Silas][8]
-[1]: Price Link
+<small>Cover photo credit: [George Yanakiev][10]
+[1]: http://adamcroom.com/2015/03/price-college-of-business-technology-teach-in/
 [2]: https://www.twitter.com/MarkMorvant
 [3]: http://ou.edu/gaylord
 [4]: https://www.twitter.com/BUDatOU
@@ -55,3 +53,4 @@ I mean, come on. Your former professor comparing you to The Boss! I've died and 
 [7]: http://www.journalism.org/2014/03/26/state-of-the-news-media-2014-overview/
 [8]: https://twitter.com/ralphbeliveau
 [9]: https://hypothes.is
+[10]: https://stocksnap.io/photo/K6JMSVKJVK
