@@ -11,11 +11,11 @@ categories:
 
 Last Friday, [John Stewart][1], one of my team members on the CTE Digital Learning team, wrote a post which chronicled the "release" of his [first Wordpress plugin][2]. The plugin ties together an instance of Wordpress BadgeOS and Slack, a tool that we use frequently for internal communication.
 
-I've written a little bit previously about [digital badges in higher education][3] (update: still trying to understand them...), and the best way for us to try to understand it has been to use ourselves as a badge test bed. In short, we give each other badges almost ironically for engaging in an activity we all support.
+I've written a little bit previously about [digital badges in higher education][3] (update: still trying to understand them...) but the best way for us to try to understand it has been to use ourselves as a badge test bed. In short, we give each other badges almost ironically for engaging in an activity we all support.
 
 <center>![CTE Badge Rules](/uploads/2015/08/oprah.jpg)</center>
 
- Of course, no one wants to go check a website every day to see the leaderboard, so John put his skills to work build a way in which everyone would be notified when a badge was awarded.
+ Of course, no one wants to go check a website every day to see the leaderboard, so John put his skills to work and built a way in which everyone would be notified when a badge was awarded.
 
 >> On a larger, more universal scale though, I proved (for myself at least) that someone with old, rusty programming skills and a vague mission could write useful code by forking already existing projects.
 
