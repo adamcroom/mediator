@@ -1,9 +1,9 @@
 ---
-title: A Reclaim Hypothesis
+title: Recap of Crappy Conf 15
 author: Adam
 layout: post
 date:   2015-08-23 16:22:25
-permalink: /2015/08/a-reclaim-hypothesis/
+permalink: /2015/08/crappy-conf-15/
 image: /uploads/2015/08/globe.jpg
 tags:
 categories:
