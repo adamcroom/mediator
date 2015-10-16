@@ -5,7 +5,7 @@ layout: post
 date:   2015-08-21 16:22:25
 permalink: /2015/08/domains-now-available-campus-wide/
 image: /uploads/2015/08/comp.jpg
-tags: featured
+tags:
 categories:
 ---
 Today's my birthday and I couldn't ask for a better work-related birthday present. I get the opportunity to announce that what was once a small pilot called [OU Create][create], heavily modeled after the [Domain of One's Own][1] project at the University of Mary Washington, is moving into full production. For the past year, our ability to serve everyone on campus was somewhat limited. While domains are still a relatively affordable solution, in order to serve a campus our size we are moving a "Subdomain of One's Own" model. For free, all OU faculty, staff, and students can get a subdomain of oucreate.com or can individually purchase a domain for $12/yr, which is still the option I will be recommending to my students due to the full ownership and easy transferability.
