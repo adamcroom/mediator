@@ -3,9 +3,9 @@ title: Indie Music and EdTech (or Indie EdTech)
 author: Adam
 layout: post
 date:   2015-10-14 14:28:25
-permalink: /2015/10/domains-and-the-dot-edu/
-image: /uploads/2015/10/train.jpg
-tags:
+permalink: /2015/10/indie-music-and-edtech/
+image: /uploads/2015/10/bass.jpg
+tags: featured
 categories:
 ---
 Below is a full transcript of my talk with [Jim Groom][1] at the [dLRN 2015 Conference][2] with slides inserted:
