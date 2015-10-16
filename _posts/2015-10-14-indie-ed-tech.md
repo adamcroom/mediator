@@ -12,7 +12,7 @@ Below is a full transcript of my talk with [Jim Groom][1] at the [dLRN 2015 Conf
 
 So Jim and I are going to do a joint talk that gives an examination of cultures through the lens of music. Particularly how these story gets weaved into the creation of a historical narrative. The narrative that I’m looking at is the music industry. I want to briefly talk about narratives that have been told of this story on how the internet has affected music, and also want to add some counter narratives in efforts to build a perspective from which we can view movements like indie ed tech.
 
-![Music Industry Narratives](/uploads/2015/10/dlrn/slide01.jpg)
+![Music Industry Narratives](/uploads/2015/10/slide01.jpg)
 
 The first is the story told from the music industry itself. And granted, while there is a very real truth, the collapse of brick-and-mortar stores, dismal numbers of physical copies sold, it tends to be the largest narrative that we see in the mass media. Digitization, fueled by a single bad guy (in this story… Napster) is a disrupts an industry.
 
@@ -28,7 +28,7 @@ In this sense, technology is not the industry disruptor, but rather the opportun
 
 And the third perspective in this story is the music artist. While the 1960s brought the opportunity to share in the discussion of music, the ability to create music, to create art, is also a core part of hacker history.
 
-![Dan Edwards and Peter Sampson](/uploads/2015/10/dlrn/slide03.jpg)
+![Dan Edwards and Peter Sampson](/uploads/2015/10/slide03.jpg)
 
 This is a picture of Dan Edwards on the left and [Peter Sampson][7] on the right. The famous original [MIT hackers][8] playing arguably the first computer video game Spacewar!
 
@@ -38,7 +38,7 @@ The computer on which they are playing is called the PDP-1. And prior to buildin
 
 And Sampson was so proud of the music compiler that he had written, that he proudly distributed it to anyone who wanted it. He desired that it be accessed, improved on, that pieces of the code could be leveraged in other projects, which is one of the earliest stories of open source code.
 
-![The Midi Controller](/uploads/2015/10/dlrn/slide05.jpg)
+![The Midi Controller](/uploads/2015/10/slide05.jpg)
 
 Arguably the biggest innovation in music was the MIDI controller. An independent device, most often seen in the form of a keyboard, that had 128 programmable and standardized switches. You could make these switches do anything. But it was enough structure, enough plumbing infrastructure, that you could mimic the dynamics of any sound. The point being that the artist now has the power to not only play instruments on a synthesizer, but the ability to create new sounds and distribute them amongst a community of other MIDI users.
 
@@ -54,21 +54,21 @@ A [New York Times Magazine feature][10], which ran in August, said this:
 
 >>In the post-Napster era, there seems to have been a swing back in a more egalitarian direction. According to one source, the top 100 tours of 2000 captured 90 percent of all revenue, while today the top 100 capture only 43 percent.
 
-![The Midi Controller](/uploads/2015/10/dlrn/slide07.jpg)
+![The Midi Controller](/uploads/2015/10/slide07.jpg)
 
 All the sudden there are more artists getting larger slices of the pie. Further, from 2002 to 2012, those identified as ‘‘independent artists, writers and performers’’ grew by almost 40 percent, while the total revenue grew by 60 percent.
 
 So as it turns out, the artists (if it’s even lucky enough to get the choice) has a choice. But rather than working in one system, the artist now has a workflow with various paths that are interchangeable.
 
-![Workflows](/uploads/2015/10/dlrn/slide08.jpg)
+![Workflows](/uploads/2015/10/slide08.jpg)
 
 And, to a degree, that’s the approach in which we are taking at the University of Oklahoma to Domains and web space in the 21st Century with [OU Create][11]. We want to give infrastructure that is commercial-grade, real world technology. We want them to not have solutions, but workflows.
 
-![The CPanel](/uploads/2015/10/dlrn/slide10.jpg)
+![The CPanel](/uploads/2015/10/slide10.jpg)
 
 [CPanel][12], is this sense, is our MIDI controller. And it gives us, at the institutional level, enough standards to great good plumbing. Inside there are nearly 100 open source applications which have been developed for these standards that students have access and can use to shape their identity.
 
-![Student Blogs](/uploads/2015/10/dlrn/slide11.jpg)
+![Student Blogs](/uploads/2015/10/slide11.jpg)
 
 This is a snapshot of the collection of my student blogs a week into the semester last Spring. What you’ll notice is a great deal of individualization and personalization that’s already taken place.
 
@@ -76,19 +76,19 @@ We have students using it to showcase their artistic passions, collaborate on di
 
 And it has led to us, a teaching and learning center, to think about how we sharing our own tools that we develop in some indie way.
 
-![Github](/uploads/2015/10/dlrn/slide16.jpg)
+![Github](/uploads/2015/10/slide16.jpg)
 
 As we develop [Wordpress plugins][13], or [documentation][14], you can build on top of those through tools like Github.
 
 So I don’t come here to make the argument that indie ed tech is the future. In fact, I come to argue, rather, that it part of our heritage and something we should embrace.
 
-![The CPanel](/uploads/2015/10/dlrn/slide17.jpg)
+![The CPanel](/uploads/2015/10/slide17.jpg)
 
 I think my frustrations with edtech have risen somewhat from what ends up being fed to mainstream media about what revolutionary “edtech” is, is an idea of a solution that treats a student like a consumer of information. A custom microwave to bring you the exact meal you would like based off of algorithms collected on your taste buds given to you at the perfect time of day!
 
 We would be letting our students down if we decided to treat them only as mere consumers rather than artists of their own identity.
 
-![Indie Ed Tech](/uploads/2015/10/dlrn/slide18.jpg)
+![Indie Ed Tech](/uploads/2015/10/slide18.jpg)
 
 Indie Ed Tech is not new, nor revolutionary, in the same respect that Indie music scenes are not new. The ideas of openness, participatory cultures, remixing; they are certainly rooted in education, and there is a body of research to back that up, but it also deeply rooted in culture; in a lot of respects, counter culture, and we can look at the moments in time where culture (music) collided with computers and universities.
 
