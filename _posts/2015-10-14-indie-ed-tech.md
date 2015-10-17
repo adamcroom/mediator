@@ -8,7 +8,9 @@ image: /uploads/2015/10/bass.jpg
 tags: featured
 categories:
 ---
-Below is a full transcript of my talk with [Jim Groom][1] at the [dLRN 2015 Conference][2] with slides inserted:
+Below is a full transcript of my talk with [Jim Groom][1] at the [dLRN 2015 Conference][2] with slides inserted.
+
+--
 
 So Jim and I are going to do a joint talk that gives an examination of cultures through the lens of music. Particularly how these story gets weaved into the creation of a historical narrative. The narrative that I’m looking at is the music industry. I want to briefly talk about narratives that have been told of this story on how the internet has affected music, and also want to add some counter narratives in efforts to build a perspective from which we can view movements like indie ed tech.
 
