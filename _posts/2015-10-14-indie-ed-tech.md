@@ -48,7 +48,7 @@ The underlying message in what Lars was conveying was this. The recording proces
 
 But the data since then has simply not supported that argument. In fact, it’s quite the opposite.
 
-A [New York Times Magazine feature][10], which ran in August, said this
+A [New York Times Magazine feature][10], which ran in August, said this:
 
 >>In the post-Napster era, there seems to have been a swing back in a more egalitarian direction. According to one source, the top 100 tours of 2000 captured 90 percent of all revenue, while today the top 100 capture only 43 percent.
 
