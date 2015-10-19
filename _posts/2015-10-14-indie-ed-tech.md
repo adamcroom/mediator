@@ -52,20 +52,20 @@ A [New York Times Magazine feature][10], which ran in August, said this
 
 >>In the post-Napster era, there seems to have been a swing back in a more egalitarian direction. According to one source, the top 100 tours of 2000 captured 90 percent of all revenue, while today the top 100 capture only 43 percent.
 
-![NY Times article](/uploads/2015/10/slide07.jpg)
+![NY Times article](https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide07.jpg?raw=true)
 
 All the sudden there are more artists getting larger slices of the pie. Further, from 2002 to 2012, those identified as ‘‘independent artists, writers and performers’’ grew by almost 40 percent, while the total revenue grew by 60 percent.
 So as it turns out, the artists (if it’s even lucky enough to get the choice) has a choice. But rather than working in one system, the artist now has a workflow with various paths that are interchangeable.
 
-![Workflows](/uploads/2015/10/slide08.jpg)
+![Workflows](https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide08.jpg?raw=true)
 
 And, to a degree, that’s the approach in which we are taking at the University of Oklahoma to Domains and web space in the 21st Century with [OU Create][11]. We want to give infrastructure that is commercial-grade, real world technology. We want them to not have solutions, but workflows.
 
-![The CPanel](/uploads/2015/10/slide10.jpg)
+![The CPanel]((https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide10.jpg?raw=true))
 
 [CPanel][12], is in this sense, is our MIDI controller. And it gives us, at the institutional level, enough standards to have good plumbing. Inside there are nearly 100 open source applications which have been developed for these standards that students have access to and can use to shape their identity.
 
-![Student Blogs](/uploads/2015/10/slide11.jpg)
+![Student Blogs]((https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide11.jpg?raw=true))
 
 This is a snapshot of the collection of my student blogs a week into the semester last Spring. What you’ll notice is a great deal of individualization and personalization that’s already taken place.
 
@@ -73,19 +73,19 @@ We have students using it to showcase their [artistic passions][21], [collaborat
 
 And it has led to us, a teaching and learning center, to think about how we sharing our own tools that we develop in some indie way.
 
-![Github](/uploads/2015/10/slide16.jpg)
+![Github]((https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide16.jpg?raw=true))
 
 As we develop [Wordpress plugins][13], or [documentation][14], you can build on top of those through tools like Github.
 
 So I don’t come here to make the argument that Indie EdTech is the future. In fact, I come to argue, rather, that it part of our heritage and something we should embrace.
 
-![The CPanel](/uploads/2015/10/slide17.jpg)
+![The CPanel]((https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide17.jpg?raw=true))
 
 I think my frustrations with EdTech have risen somewhat from what ends up being fed to mainstream media about what revolutionary “EdTech” is, is an idea of a solution that treats a student like a consumer of information. A custom microwave to bring you the exact meal you would like based off of algorithms collected on your taste buds given to you at the perfect time of day!
 
 We would be letting our students down if we decided to treat them only as mere consumers rather than artists of their own identity.
 
-![Indie Ed Tech](/uploads/2015/10/slide18.jpg)
+![Indie Ed Tech]((https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide18.jpg?raw=true))
 
 Indie EdTech is not new, nor revolutionary, in the same respect that Indie music scenes are not new. The ideas of openness, participatory cultures, remixing; they are certainly rooted in education, and there is a body of research to back that up, but it also deeply rooted in culture; in a lot of respects, counter culture, and we can look at the moments in time where culture (music) collided with computers and universities.
 
