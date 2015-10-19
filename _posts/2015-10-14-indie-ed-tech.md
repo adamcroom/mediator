@@ -12,7 +12,7 @@ Below is a full transcript of my talk with [Jim Groom][1] at the [dLRN 2015 Conf
 
 So Jim and I are going to do a joint talk that gives an examination of cultures through the lens of music. Particularly how these stories get weaved into the creation of a historical narrative. The narrative that I’m looking at is the music industry. I want to briefly talk about narratives that have been told of this story on how the internet has affected music. Additionally, I want to add some counter narratives in efforts to build a perspective from which we can view movements like Indie EdTech.
 
-![Music Industry Narratives](/uploads/2015/10/slide01.jpg)
+![Music Industry Narratives](https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide01.jpg?raw=true)
 
 The first is the story told from the music industry itself. And granted, while there is a very real truth (the collapse of brick-and-mortar stores; dismal numbers of physical copies sold), it tends to be the largest narrative that we see in the mass media. Digitization, fueled by a single bad guy (in this story… Napster) disrupts an industry.
 There’s a mass media story to the consumer as well and it tends to be within lock step with the collapse of the music industry through the development of the MP3 file format which came out in 1989, followed a decade later by the portable mp3 player, WINAMP, and the Apple iPod in 2001 (which was actually a surprisingly later comer to the mp3 player market).
@@ -27,7 +27,7 @@ In this sense, technology is not the industry disruptor, but rather the opportun
 
 And the third perspective in this story is the music artist. While the 1960s brought the opportunity to share in the discussion of music, the ability to create music; to create art, is also a core part of hacker history.
 
-![Dan Edwards and Peter Sampson](/uploads/2015/10/slide03.jpg)
+![Dan Edwards and Peter Sampson](https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide03.jpg?raw=true)
 
 This is a picture of Dan Edwards on the left and [Peter Sampson][7] on the right. The famous original [MIT hackers][8] playing arguably the first computer video game Spacewar!
 
@@ -37,7 +37,7 @@ The computer on which they are playing is called the PDP-1. And prior to buildin
 
 And Sampson was so proud of the music compiler that he had written, that he proudly distributed it to anyone who wanted it. He desired that it be accessed, improved on, that pieces of the code could be leveraged in other projects, which is one of the earliest stories of open source code.
 
-![The Midi Controller](/uploads/2015/10/slide05.jpg)
+![The Midi Controller](https://github.com/adamcroom/mediator/blob/gh-pages/uploads/2015/10/Slide05.jpg?raw=true)
 
 Arguably the biggest innovation in music was the MIDI controller. An independent device, most often seen in the form of a keyboard, that had 128 programmable and standardized switches. You could make these switches do anything. But it was enough structure, enough plumbing infrastructure, that you could mimic the dynamics of any sound. The point being that the artist now has the power to not only play instruments on a synthesizer, but the ability to create new sounds and distribute them amongst a community of other MIDI users.
 And I realize that this artist perspective is different than what one might have heard during the Napster trials by Lars Ulrich, the drummer of Metallica, who said this to a Senate committee during the Napster trials:
@@ -52,7 +52,7 @@ A [New York Times Magazine feature][10], which ran in August, said this:
 
 >>In the post-Napster era, there seems to have been a swing back in a more egalitarian direction. According to one source, the top 100 tours of 2000 captured 90 percent of all revenue, while today the top 100 capture only 43 percent.
 
-![The Midi Controller](/uploads/2015/10/slide07.jpg)
+![NY Times article](/uploads/2015/10/slide07.jpg)
 
 All the sudden there are more artists getting larger slices of the pie. Further, from 2002 to 2012, those identified as ‘‘independent artists, writers and performers’’ grew by almost 40 percent, while the total revenue grew by 60 percent.
 So as it turns out, the artists (if it’s even lucky enough to get the choice) has a choice. But rather than working in one system, the artist now has a workflow with various paths that are interchangeable.
