@@ -3,7 +3,7 @@ title: A dLRN Detox
 author: Adam
 layout: post
 date: {}
-permalink: "/2015/10/a-dlrn-detox/"
+permalink: /2015/10/a-dlrn-detox/
 image: /uploads/2015/10/garden.jpg
 tags: null
 categories: null
@@ -11,7 +11,7 @@ published: true
 ---
 
 
-1Let's rewind a bit back to Saturday morning. A session has just ended on the last day of the [dLRN][1] (Digital Learning Research Network) Conference. I had walked in a bit late with two Georges ([Station][2] and [Siemens][3]). As Siemens walks in, he gets a round of applause for even showing up (he's the moderator). I awkwardly follow behind, grab a seat towards the back at a table of four, and flip it around to watch the session which includes [Dave Cormier][4] and [Rebecca Petersen][5] presenting the early ideas of his research on edtech practioners, [Paul-Olivier Dehaye][6] explaining networks and himself for his mass confusion experiment during Coursera's [Mass Teaching MOOC][7].
+Let's rewind a bit back to Saturday morning. A session has just ended on the last day of the [dLRN][1] (Digital Learning Research Network) Conference. I had walked in a bit late with two Georges ([Station][2] and [Siemens][3]). As Siemens walks in, he gets a round of applause for even showing up (he's the moderator). I awkwardly follow behind, grab a seat towards the back at a table of four, and flip it around to watch the session which includes [Dave Cormier][4] and [Rebecca Petersen][5] presenting the early ideas of his research on edtech practioners, [Paul-Olivier Dehaye][6] explaining networks and himself for his mass confusion experiment during Coursera's [Mass Teaching MOOC][7].
 
 An attendee eventually wheels up a chair next to me and proceeds to ask two incredibly pointed questions during the session that I'm deeply impressed with. I'll tell you: dLRN was a conference where I was continually impressed by the level of critical discussion as much as anything else. This was a group that is deeply literate in the complexities of the field of digital learning and education, and I was continually moved by different attendees abilities to challenge an idea without belittling it.
 
