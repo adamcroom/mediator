@@ -2,12 +2,11 @@
 title: A dLRN Detox
 author: Adam
 layout: post
-date: {}
+date:   2015-10-18 14:28:25
 permalink: /2015/10/a-dlrn-detox/
 image: /uploads/2015/10/garden.jpg
-tags: null
-categories: null
-published: true
+tags: 
+categories:
 ---
 
 
